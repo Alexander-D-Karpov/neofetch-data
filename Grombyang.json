@@ -1,0 +1,5 @@
+{
+  "distro_name": "Grombyang",
+  "colors": "4 2 1",
+  "ascii_art": "${c1}            eeeeeeeeeeee\n         eeeeeeeeeeeeeeeee\n      eeeeeeeeeeeeeeeeeeeeeee\n    eeeee       ${c2}.o+       ${c1}eeee\n  eeee         ${c2}`ooo/         ${c1}eeee\n eeee         ${c2}`+oooo:         ${c1}eeee\neee          ${c2}`+oooooo:          ${c1}eee\neee          ${c2}-+oooooo+:         ${c1}eee\nee         ${c2}`/:oooooooo+:         ${c1}ee\nee        ${c2}`/+   +++    +:        ${c1}ee\nee              ${c2}+o+\\             ${c1}ee\neee             ${c2}+o+\\            ${c1}eee\neee        ${c2}//  \\\\ooo/  \\\\\\        ${c1}eee\n eee      ${c2}//++++oooo++++\\\\\\     ${c1}eee\n  eeee    ${c2}::::++oooo+:::::   ${c1}eeee\n    eeeee   ${c3}Grombyang OS ${c1}  eeee\n      eeeeeeeeeeeeeeeeeeeeeee\n         eeeeeeeeeeeeeeeee"
+}

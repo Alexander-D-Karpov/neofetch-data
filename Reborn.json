@@ -1,0 +1,5 @@
+{
+  "distro_name": "Reborn",
+  "colors": "2 2 8",
+  "ascii_art": "${c3}\n        mMMMMMMMMM  MMMMMMMMMm\n       NM                    MN\n      MM  ${c1}dddddddd  dddddddd  ${c3}MN\n     mM  ${c1}dd                dd  ${c3}MM\n        ${c1}dd  hhhhhh   hhhhh  dd\n   ${c3}mM      ${c1}hh            hh      ${c3}Mm\n  NM  ${c1}hd       ${c3}mMMMMMMd       ${c1}dh  ${c3}MN\n NM  ${c1}dd  hh   ${c3}mMMMMMMMMm   ${c1}hh  dd  ${c3}MN\nNM  ${c1}dd  hh   ${c3}mMMMMMMMMMMm   ${c1}hh  dd  ${c3}MN\n NM  ${c1}dd  hh   ${c3}mMMMMMMMMm   ${c1}hh  dd  ${c3}MN\n  NM  ${c1}hd       ${c3}mMMMMMMm       ${c1}dh  ${c3}MN\n   mM      ${c1}hh            hh      ${c3}Mm\n        ${c1}dd  hhhhhh  hhhhhh  dd\n     ${c3}MM  ${c1}dd                dd  ${c3}MM\n      MM  ${c1}dddddddd  dddddddd  ${c3}MN\n       NM                    MN\n        mMMMMMMMMM  MMMMMMMMMm"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "OpenIndiana",
+  "colors": "4 7 1",
+  "ascii_art": "${c2}                         .sy/\n                         .yh+\n\n           ${c1}-+syyyo+-     ${c2} /+.\n         ${c1}+ddo/---/sdh/   ${c2} ym-\n       ${c1}`hm+        `sms${c2}   ym-```````.-.\n       ${c1}sm+           sm/ ${c2} ym-         +s\n       ${c1}hm.           /mo ${c2} ym-         /h\n       ${c1}omo           ym: ${c2} ym-       `os`\n        ${c1}smo`       .ym+ ${c2}  ym-     .os-\n     ``  ${c1}:ymy+///oyms- ${c2}   ym-  .+s+.\n   ..`     ${c1}`:+oo+/-`  ${c2}    -//oyo-\n -:`                   .:oys/.\n+-               `./oyys/.\nh+`      `.-:+oyyyo/-`\n`/ossssysso+/-.`"
+}

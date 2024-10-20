@@ -1,0 +1,5 @@
+{
+  "distro_name": "SteamOS",
+  "colors": "5 7",
+  "ascii_art": "${c1}              .,,,,.\n        .,'onNMMMMMNNnn',.\n     .'oNMANKMMMMMMMMMMMNNn'.\n   .'ANMMMMMMMXKNNWWWPFFWNNMNn.\n  ;NNMMMMMMMMMMNWW'' ,.., 'WMMM,\n ;NMMMMV+##+VNWWW' .+;'':+, 'WMW,\n,VNNWP+${c2}######${c1}+WW,  ${c2}+:    ${c1}:+, +MMM,\n'${c2}+#############,   +.    ,+' ${c1}+NMMM\n${c2}  '*#########*'     '*,,*' ${c1}.+NMMMM.\n${c2}     `'*###*'          ,.,;###${c1}+WNM,\n${c2}         .,;;,      .;##########${c1}+W\n${c2},',.         ';  ,+##############'\n '###+. :,. .,; ,###############'\n  '####.. `'' .,###############'\n    '#####+++################'\n      '*##################*'\n         ''*##########*''\n              ''''''"
+}

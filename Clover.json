@@ -1,0 +1,5 @@
+{
+  "distro_name": "Clover",
+  "colors": "2 6",
+  "ascii_art": "${c1}               `omo``omo`\n             `oNMMMNNMMMNo`\n           `oNMMMMMMMMMMMMNo`\n          oNMMMMMMMMMMMMMMMMNo\n          `sNMMMMMMMMMMMMMMNs`\n     `omo`  `sNMMMMMMMMMMNs`  `omo`\n   `oNMMMNo`  `sNMMMMMMNs`  `oNMMMNo`\n `oNMMMMMMMNo`  `oNMMNs`  `oNMMMMMMMNo`\noNMMMMMMMMMMMNo`  `sy`  `oNMMMMMMMMMMMNo\n`sNMMMMMMMMMMMMNo.${c2}oNNs${c1}.oNMMMMMMMMMMMMNs`\n`oNMMMMMMMMMMMMNs.${c2}oNNs${c1}.oNMMMMMMMMMMMMNo`\noNMMMMMMMMMMMNs`  `sy`  `oNMMMMMMMMMMMNo\n `oNMMMMMMMNs`  `oNMMNo`  `oNMMMMMMMNs`\n   `oNMMMNs`  `sNMMMMMMNs`  `oNMMMNs`\n     `oNs`  `sNMMMMMMMMMMNs`  `oNs`\n          `sNMMMMMMMMMMMMMMNs`\n          +NMMMMMMMMMMMMMMMMNo\n           `oNMMMMMMMMMMMMNo`\n             `oNMMMNNMMMNs`\n               `omo``oNs`"
+}

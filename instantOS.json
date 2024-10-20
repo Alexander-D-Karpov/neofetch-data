@@ -1,0 +1,5 @@
+{
+  "distro_name": "instantOS",
+  "colors": "4 6",
+  "ascii_art": "${c1}\n     'cx0XWWMMWNKOd:'.\n  .;kNMMMMMMMMMMMMMWNKd'\n 'kNMMMMMMWNNNWMMMMMMMMXo.\n,0MMMMMW0o;'..,:dKWMMMMMWx.\nOMMMMMXl.        .xNMMMMMNo\nWMMMMNl           .kWWMMMMO'\nMMMMMX;            oNWMMMMK,\nNMMMMWo           .OWMMMMMK,\nkWMMMMNd.        ,kWMMMMMMK,\n'kWMMMMWXxl:;;:okNMMMMMMMMK,\n .oXMMMMMMMWWWMMMMMMMMMMMMK,\n   'oKWMMMMMMMMMMMMMMMMMMMK,\n     .;lxOKXXXXXXXXXXXXXXXO;......\n          ................,d0000000kd:.\n                          .kMMMMMMMMMW0;\n                          .kMMMMMMMMMMMX\n                          .xMMMMMMMMMMMW\n                           cXMMMMMMMMMM0\n                            :0WMMMMMMNx,\n                             .o0NMWNOc."
+}

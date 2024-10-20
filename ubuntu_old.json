@@ -1,0 +1,5 @@
+{
+  "distro_name": "ubuntu_old",
+  "colors": "1 7 3",
+  "ascii_art": "${c1}                         ./+o+-\n${c2}                 yyyyy- ${c1}-yyyyyy+\n${c2}              ${c2}://+//////${c1}-yyyyyyo\n${c3}          .++ ${c2}.:/++++++/-${c1}.+sss/`\n${c3}        .:++o:  ${c2}/++++++++/:--:/-\n${c3}       o:+o+:++.${c2}`..```.-/oo+++++/\n${c3}      .:+o:+o/.${c2}          `+sssoo+/\n${c2} .++/+:${c3}+oo+o:`${c2}             /sssooo.\n${c2}/+++//+:${c3}`oo+o${c2}               /::--:.\n${c2}+/+o+++${c3}`o++o${c1}               ++////.\n${c2} .++.o+${c3}++oo+:`${c1}             /dddhhh.\n${c3}      .+.o+oo:.${c1}          `oddhhhh+\n${c3}       +.++o+o`${c1}`-````.:ohdhhhhh+\n${c3}        `:o+++ ${c1}`ohhhhhhhhyo++os:\n${c3}          .o:${c1}`.syhhhhhhh/${c3}.oo++o`\n${c1}              /osyyyyyyo${c3}++ooo+++/\n${c1}                  ````` ${c3}+oo+++o:\n${c3}                         `oo++."
+}

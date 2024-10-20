@@ -1,0 +1,5 @@
+{
+  "distro_name": "Solus",
+  "colors": "4 7 1",
+  "ascii_art": "${c2}            -```````````\n          `-+/------------.`\n       .---:mNo---------------.\n     .-----yMMMy:---------------.\n   `------oMMMMMm/----------------`\n  .------/MMMMMMMN+----------------.\n .------/NMMMMMMMMm-+/--------------.\n`------/NMMMMMMMMMN-:mh/-------------`\n.-----/NMMMMMMMMMMM:-+MMd//oso/:-----.\n-----/NMMMMMMMMMMMM+--mMMMh::smMmyo:--\n----+NMMMMMMMMMMMMMo--yMMMMNo-:yMMMMd/.\n.--oMMMMMMMMMMMMMMMy--yMMMMMMh:-yMMMy-`\n`-sMMMMMMMMMMMMMMMMh--dMMMMMMMd:/Ny+y.\n`-/+osyhhdmmNNMMMMMm-/MMMMMMMmh+/ohm+\n  .------------:://+-/++++++${c1}oshddys:\n   -hhhhyyyyyyyyyyyhhhhddddhysssso-\n    `:ossssssyysssssssssssssssso:`\n      `:+ssssssssssssssssssss+-\n         `-/+ssssssssssso+/-`\n              `.-----..`"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "Septor",
+  "colors": "4 7 4",
+  "ascii_art": "${c1}ssssssssssssssssssssssssssssssssssssssss\nssssssssssssssssssssssssssssssssssssssss\nssssssssssssssssssssssssssssssssssssssss\nssssssssssssssssssssssssssssssssssssssss\nssssssssss${c2};okOOOOOOOOOOOOOOko;${c1}ssssssssss\nsssssssss${c2}oNWWWWWWWWWWWWWWWWWWNo${c1}sssssssss\nssssssss${c2}:WWWWWWWWWWWWWWWWWWWWWW:${c1}ssssssss\nssssssss${c2}lWWWWWk${c1}ssssssssss${c2}lddddd:${c1}ssssssss\nssssssss${c2}cWWWWWNKKKKKKKKKKKKOx:${c1}ssssssssss\n${c3}yy${c1}sssssss${c2}OWWWWWWWWWWWWWWWWWWWWx${c1}sssssss${c3}yy\nyyyyyyyyyy${c2}:kKNNNNNNNNNNNNWWWWWW:${c3}yyyyyyyy\nyyyyyyyy${c2}sccccc;${c3}yyyyyyyyyy${c2}kWWWWW:${c3}yyyyyyyy\nyyyyyyyy${c2}:WWWWWWNNNNNNNNNNWWWWWW;${c3}yyyyyyyy\nyyyyyyyy${c2}.dWWWWWWWWWWWWWWWWWWWNd${c3}yyyyyyyyy\nyyyyyyyyyy${c2}sdO0KKKKKKKKKKKK0Od;${c3}yyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+}

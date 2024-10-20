@@ -1,0 +1,5 @@
+{
+  "distro_name": "Minix",
+  "colors": "1 7 3",
+  "ascii_art": "${c2}   -sdhyo+:-`                -/syymm:\n   sdyooymmNNy.     ``    .smNmmdysNd\n   odyoso+syNNmysoyhhdhsoomNmm+/osdm/\n    :hhy+-/syNNmddhddddddmNMNo:sdNd:\n     `smNNdNmmNmddddddddddmmmmmmmy`\n   `ohhhhdddddmmNNdmddNmNNmdddddmdh-\n   odNNNmdyo/:/-/hNddNy-`..-+ydNNNmd:\n `+mNho:`   smmd/ sNNh :dmms`   -+ymmo.\n-od/       -m${c1}mm${c2}mo -NN+ +m${c1}mm${c2}m-       yms:\n+sms -.`    :so:  .NN+  :os/     .-`mNh:\n.-hyh+:////-     -sNNd:`    .--://ohNs-\n `:hNNNNNNNMMd/sNMmhsdMMh/ymmNNNmmNNy/\n  -+sNNNNMMNNNsmNMo: :NNmymNNNNMMMms:\n    //oydNMMMMydMMNysNMMmsMMMMMNyo/`\n       ../-yNMMy--/::/-.sMMmos+.`\n           -+oyhNsooo+omy/```\n              `::ohdmds-`"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "Kali",
+  "colors": "4 8",
+  "ascii_art": "${c1}..............\n            ..,;:ccc,.\n          ......''';lxO.\n.....''''..........,:ld;\n           .';;;:::;,,.x,\n      ..'''.            0Xxoc:,.  ...\n  ....                ,ONkc;,;cokOdc',.\n .                   OMo           ':${c2}dd${c1}o.\n                    dMc               :OO;\n                    0M.                 .:o.\n                    ;Wd\n                     ;XO,\n                       ,d0Odlc;,..\n                           ..',;:cdOOd::,.\n                                    .:d;.':;.\n                                       'd,  .'\n                                         ;l   ..\n                                          .o\n                                            c\n                                            .'\n                                             ."
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "t2",
+  "colors": "7 4",
+  "ascii_art": "${c2}\nTTTTTTTTTT\n    tt   ${c1}222${c2}\n    tt  ${c1}2   2${c2}\n    tt     ${c1}2${c2}\n    tt    ${c1}2${c2}\n    tt  ${c1}22222${c2}"
+}

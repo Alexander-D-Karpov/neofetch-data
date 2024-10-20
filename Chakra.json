@@ -1,0 +1,5 @@
+{
+  "distro_name": "Chakra",
+  "colors": "4 5 7 6",
+  "ascii_art": "${c1}     _ _ _        \"kkkkkkkk.\n   ,kkkkkkkk.,    'kkkkkkkkk,\n   ,kkkkkkkkkkkk., 'kkkkkkkkk.\n  ,kkkkkkkkkkkkkkkk,'kkkkkkkk,\n ,kkkkkkkkkkkkkkkkkkk'kkkkkkk.\n  \"''\"''',;::,,\"''kkk''kkkkk;   __\n      ,kkkkkkkkkk, \"k''kkkkk' ,kkkk\n    ,kkkkkkk' ., ' .: 'kkkk',kkkkkk\n  ,kkkkkkkk'.k'   ,  ,kkkk;kkkkkkkkk\n ,kkkkkkkk';kk 'k  \"'k',kkkkkkkkkkkk\n.kkkkkkkkk.kkkk.'kkkkkkkkkkkkkkkkkk'\n;kkkkkkkk''kkkkkk;'kkkkkkkkkkkkk''\n'kkkkkkk; 'kkkkkkkk.,\"\"''\"''\"\"\n  ''kkkk;  'kkkkkkkkkk.,\n     ';'    'kkkkkkkkkkkk.,\n             ';kkkkkkkkkk'\n               ';kkkkkk'\n                  \"''\""
+}

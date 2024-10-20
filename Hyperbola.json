@@ -1,0 +1,5 @@
+{
+  "distro_name": "Hyperbola",
+  "colors": "8",
+  "ascii_art": "${c1}                     WW\n                     KX              W\n                    WO0W          NX0O\n                    NOO0NW  WNXK0OOKW\n                    W0OOOOOOOOOOOOKN\n                     N0OOOOOOO0KXW\n                       WNXXXNW\n                 NXK00000KN\n             WNK0OOOOOOOOOO0W\n           NK0OOOOOOOOOOOOOO0W\n         X0OOOOOOO00KK00OOOOOK\n       X0OOOO0KNWW      WX0OO0W\n     X0OO0XNW              KOOW\n   N00KNW                   KOW\n NKXN                       W0W\nWW                           W"
+}

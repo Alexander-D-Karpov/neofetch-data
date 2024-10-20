@@ -1,0 +1,5 @@
+{
+  "distro_name": "Raspbian_small",
+  "colors": "2 1",
+  "ascii_art": "${c1}   ..    ,.\n  :oo: .:oo:\n  'o\\\\o o/o:\n${c2} :: . :: . ::\n:: :::  ::: ::\n:'  '',.''  ':\n ::: :::: :::\n ':,  ''  ,:'\n   ' ~::~ '"
+}

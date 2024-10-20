@@ -1,0 +1,5 @@
+{
+  "distro_name": "Nurunner",
+  "colors": "4",
+  "ascii_art": "${c1}                  ,xc\n                ;00cxXl\n              ;K0,   .xNo.\n            :KO'       .lXx.\n          cXk.    ;xl     cXk.\n        cXk.    ;k:.,xo.    cXk.\n     .lXx.    :x::0MNl,dd.    :KO,\n   .xNx.    cx;:KMMMMMNo'dx.    ;KK;\n .dNl.    cd,cXMMMMMMMMMWd,ox'    'OK:\n;WK.    'K,.KMMMMMMMMMMMMMWc.Kx     lMO\n 'OK:    'dl'xWMMMMMMMMMM0::x:    'OK:\n   .kNo    .xo'xWMMMMMM0;:O:    ;KK;\n     .dXd.   .do,oNMMO;ck:    ;00,\n        oNd.   .dx,;'cO;    ;K0,\n          oNx.    okk;    ;K0,\n            lXx.        :KO'\n              cKk'    cXk.\n                ;00:lXx.\n                  ,kd."
+}

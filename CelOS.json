@@ -1,0 +1,5 @@
+{
+  "distro_name": "CelOS",
+  "colors": "4 6 0 5",
+  "ascii_art": "${c4}                     .,cmmmmmmmmmmmc,.\n                .,cmMMMMMMMMMMMMMMMMMMMMmc.\n             .cMMMMMMMMMMMMMMMMMMMMMMMMMMMmc.\n           .cMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMc.\n         ,:MMM ${c3}####################################${c4}\n        cMMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmc.\n       .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.\n      .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMc\n      \"******************************MMMMMMMMMMMMMc:\n${c3}#################################### ${c4}MMMMMMMMMMMMMc\n      \"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:\n       \"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\"\n       'MMMMMMMMM*******************************:\n        \\\"MMMMMM ${c3}#####################################\n         ${c4}`:MMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmm;\n           `\"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\"\n             `\":MMMMMMMMMMMMMMMMMMMMMMMMM;'\n                `\":MMMMMMMMMMMMMMMMMMM:\"\n                     \"************\""
+}

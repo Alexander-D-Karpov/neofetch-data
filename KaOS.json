@@ -1,0 +1,5 @@
+{
+  "distro_name": "KaOS",
+  "colors": "4 7 1",
+  "ascii_art": "${c1}                     ..\n  .....         ..OSSAAAAAAA..\n .KKKKSS.     .SSAAAAAAAAAAA.\n.KKKKKSO.    .SAAAAAAAAAA...\nKKKKKKS.   .OAAAAAAAA.\nKKKKKKS.  .OAAAAAA.\nKKKKKKS. .SSAA..\n.KKKKKS..OAAAAAAAAAAAA........\n DKKKKO.=AA=========A===AASSSO..\n  AKKKS.==========AASSSSAAAAAASS.\n  .=KKO..========ASS.....SSSSASSSS.\n    .KK.       .ASS..O.. =SSSSAOSS:\n     .OK.      .ASSSSSSSO...=A.SSA.\n       .K      ..SSSASSSS.. ..SSA.\n                 .SSS.AAKAKSSKA.\n                    .SSS....S.."
+}

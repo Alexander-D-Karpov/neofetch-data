@@ -1,0 +1,5 @@
+{
+  "distro_name": "SwagArch",
+  "colors": "4 7 1",
+  "ascii_art": "${c2}        .;ldkOKXXNNNNXXK0Oxoc,.\n   ,lkXMMNK0OkkxkkOKWMMMMMMMMMM;\n 'K0xo  ..,;:c:.     `'lKMMMMM0\n     .lONMMMMMM'         `lNMk'\n${c2}    ;WMMMMMMMMMO.              ${c1}....::...\n${c2}    OMMMMMMMMMMMMKl.       ${c1}.,;;;;;ccccccc,\n${c2}    `0MMMMMMMMMMMMMM0:         ${c1}.. .ccccccc.\n${c2}      'kWMMMMMMMMMMMMMNo.   ${c1}.,:'  .ccccccc.\n${c2}        `c0MMMMMMMMMMMMMN,${c1},:c;    :cccccc:\n${c2} ckl.      `lXMMMMMMMMMX${c1}occcc:.. ;ccccccc.\n${c2}dMMMMXd,     `OMMMMMMWk${c1}ccc;:''` ,ccccccc:\n${c2}XMMMMMMMWKkxxOWMMMMMNo${c1}ccc;     .cccccccc.\n${c2} `':ldxO0KXXXXXK0Okdo${c1}cccc.     :cccccccc.\n                    :ccc:'     `cccccccc:,\n                                   ''"
+}

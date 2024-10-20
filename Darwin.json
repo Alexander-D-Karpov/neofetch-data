@@ -1,0 +1,5 @@
+{
+  "distro_name": "Darwin",
+  "colors": "2 3 1 1 5 4",
+  "ascii_art": "${c1}                    c.'\n                 ,xNMM.\n               .OMMMMo\n               lMMM\"\n     .;loddo:.  .olloddol;.\n   cKMMMMMMMMMMNWMMMMMMMMMM0:\n${c2} .KMMMMMMMMMMMMMMMMMMMMMMMWd.\n XMMMMMMMMMMMMMMMMMMMMMMMX.\n${c3};MMMMMMMMMMMMMMMMMMMMMMMM:\n:MMMMMMMMMMMMMMMMMMMMMMMM:\n${c4}.MMMMMMMMMMMMMMMMMMMMMMMMX.\n kMMMMMMMMMMMMMMMMMMMMMMMMWd.\n ${c5}'XMMMMMMMMMMMMMMMMMMMMMMMMMMk\n  'XMMMMMMMMMMMMMMMMMMMMMMMMK.\n    ${c6}kMMMMMMMMMMMMMMMMMMMMMMd\n     ;KMMMMMMMWXXWMMMMMMMk.\n       \"cooc*\"    \"*coo'\""
+}

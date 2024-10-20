@@ -1,0 +1,5 @@
+{
+  "distro_name": "Ataraxia",
+  "colors": "4 5 6 2",
+  "ascii_art": "${c1}               'l:\n        loooooo\n          loooo coooool\n looooooooooooooooooool\n  looooooooooooooooo\n         lool   cooo\n        coooooooloooooooo\n     clooooo  ;lood  cloooo\n  :loooocooo cloo      loooo\n loooo  :ooooool       loooo\nlooo    cooooo        cooooo\nlooooooooooooo      ;loooooo ${c2}looooooc\n${c1}looooooooo loo   cloooooool    ${c2}looooc\n${c1} cooo       cooooooooooo       ${c2}looolooooool\n${c1}            cooo:     ${c2}coooooooooooooooooool\n                       loooooooooooolc:   loooc;\n                             cooo:    loooooooooooc\n                            ;oool         looooooo:\n                           coool          olc,\n                          looooc   ,,\n                        coooooc    loc\n                       :oooool,    coool:, looool:,\n                       looool:      ooooooooooooooo:\n                       cooolc        .ooooooooooool"
+}

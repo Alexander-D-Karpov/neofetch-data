@@ -1,0 +1,5 @@
+{
+  "distro_name": "Mageia",
+  "colors": "6 7",
+  "ascii_art": "${c1}        .°°.\n         °°   .°°.\n         .°°°. °°\n         .   .\n          °°° .°°°.\n      .°°°.   '___'\n${c2}     .${c1}'___'     ${c2}   .\n   :dkxc;'.  ..,cxkd;\n .dkk. kkkkkkkkkk .kkd.\n.dkk.  ';cloolc;.  .kkd\nckk.                .kk;\nxO:                  cOd\nxO:                  lOd\nlOO.                .OO:\n.k00.              .00x\n .k00;            ;00O.\n  .lO0Kc;,,,,,,;c0KOc.\n     ;d00KKKKKK00d;\n        .,KKKK,."
+}

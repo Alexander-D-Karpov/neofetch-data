@@ -1,0 +1,5 @@
+{
+  "distro_name": "Alpine",
+  "colors": "4 5 7 6",
+  "ascii_art": "${c1}       .hddddddddddddddddddddddh.\n      :dddddddddddddddddddddddddd:\n     /dddddddddddddddddddddddddddd/\n    +dddddddddddddddddddddddddddddd+\n  `sdddddddddddddddddddddddddddddddds`\n `ydddddddddddd++hdddddddddddddddddddy`\n.hddddddddddd+`  `+ddddh:-sdddddddddddh.\nhdddddddddd+`      `+y:    .sddddddddddh\nddddddddh+`   `//`   `.`     -sddddddddd\nddddddh+`   `/hddh/`   `:s-    -sddddddd\nddddh+`   `/+/dddddh/`   `+s-    -sddddd\nddd+`   `/o` :dddddddh/`   `oy-    .yddd\nhdddyo+ohddyosdddddddddho+oydddy++ohdddh\n.hddddddddddddddddddddddddddddddddddddh.\n `yddddddddddddddddddddddddddddddddddy`\n  `sdddddddddddddddddddddddddddddddds`\n    +dddddddddddddddddddddddddddddd+\n     /dddddddddddddddddddddddddddd/\n      :dddddddddddddddddddddddddd:\n       .hddddddddddddddddddddddh."
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "Redstar",
+  "colors": "1 7 3",
+  "ascii_art": "${c1}                    ..\n                  .oK0l\n                 :0KKKKd.\n               .xKO0KKKKd\n              ,Od' .d0000l\n             .c;.   .'''...           ..'.\n.,:cloddxxxkkkkOOOOkkkkkkkkxxxxxxxxxkkkx:\n;kOOOOOOOkxOkc'...',;;;;,,,'',;;:cllc:,.\n .okkkkd,.lko  .......',;:cllc:;,,'''''.\n   .cdo. :xd' cd:.  ..';'',,,'',,;;;,'.\n      . .ddl.;doooc'..;oc;'..';::;,'.\n        coo;.oooolllllllcccc:'.  .\n       .ool''lllllccccccc:::::;.\n       ;lll. .':cccc:::::::;;;;'\n       :lcc:'',..';::::;;;;;;;,,.\n       :cccc::::;...';;;;;,,,,,,.\n       ,::::::;;;,'.  ..',,,,'''.\n        ........          ......"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "TrueOS",
+  "colors": "1 7 3",
+  "ascii_art": "${c1}                       ..\n                        s.\n                        +y\n                        yN\n                       -MN  `.\n                      :NMs `m\n                    .yMMm` `No\n            `-/+++sdMMMNs+-`+Ms\n        `:oo+-` .yMMMMy` `-+oNMh\n      -oo-     +NMMMM/       oMMh-\n    .s+` `    oMMMMM/     -  oMMMhy.\n   +s`- ::   :MMMMMd     -o `mMMMy`s+\n  y+  h .Ny+oNMMMMMN/    sh+NMMMMo  +y\n s+ .ds  -NMMMMMMMMMMNdhdNMMMMMMh`   +s\n-h .NM`   `hMMMMMMMMMMMMMMNMMNy:      h-\ny- hMN`     hMMmMMMMMMMMMNsdMNs.      -y\nm` mMMy`    oMMNoNMMMMMMo`  sMMMo     `m\nm` :NMMMdyydMMMMo+MdMMMs     sMMMd`   `m\nh-  `+ymMMMMMMMM--M+hMMN/    +MMMMy   -h\n:y     `.sMMMMM/ oMM+.yMMNddNMMMMMm   y:\n y:   `s  dMMN- .MMMM/ :MMMMMMMMMMh  :y\n `h:  `mdmMMM/  yMMMMs  sMMMMMMMMN- :h`\n   so  -NMMMN   /mmd+  `dMMMMMMMm- os\n    :y: `yMMM`       `+NMMMMMMNo`:y:\n      /s+`.omy      /NMMMMMNh/.+s:\n        .+oo:-.     /mdhs+::oo+.\n            -/o+++++++++++/-"
+}

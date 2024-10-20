@@ -1,0 +1,5 @@
+{
+  "distro_name": "mint",
+  "colors": "2 7",
+  "ascii_art": "${c2}             ...-:::::-...\n${c2}          .-MMMMMMMMMMMMMMM-.\n      .-MMMM${c1}`..-:::::::-..`${c2}MMMM-.\n    .:MMMM${c1}.:MMMMMMMMMMMMMMM:.${c2}MMMM:.\n   -MMM${c1}-M---MMMMMMMMMMMMMMMMMMM.${c2}MMM-\n `:MMM${c1}:MM`  :MMMM:....::-...-MMMM:${c2}MMM:`\n :MMM${c1}:MMM`  :MM:`  ``    ``  `:MMM:${c2}MMM:\n.MMM${c1}.MMMM`  :MM.  -MM.  .MM-  `MMMM.${c2}MMM.\n:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM-${c2}MMM:\n:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM:${c2}MMM:\n:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM-${c2}MMM:\n.MMM${c1}.MMMM`  :MM:--:MM:--:MM:  `MMMM.${c2}MMM.\n :MMM${c1}:MMM-  `-MMMMMMMMMMMM-`  -MMM-${c2}MMM:\n  :MMM${c1}:MMM:`                `:MMM:${c2}MMM:\n   .MMM${c1}.MMMM:--------------:MMMM.${c2}MMM.\n     '-MMMM${c1}.-MMMMMMMMMMMMMMM-.${c2}MMMM-'\n       '.-MMMM${c1}``--:::::--``${c2}MMMM-.'\n${c2}            '-MMMMMMMMMMMMM-'\n${c2}               ``-:::::-``"
+}

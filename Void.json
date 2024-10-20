@@ -1,0 +1,5 @@
+{
+  "distro_name": "Void",
+  "colors": "2 8",
+  "ascii_art": "${c1}                __.;=====;.__\n            _.=+==++=++=+=+===;.\n             -=+++=+===+=+=+++++=_\n        .     -=:``     `--==+=++==.\n       _vi,    `            --+=++++:\n      .uvnvi.       _._       -==+==+.\n     .vvnvnI`    .;==|==;.     :|=||=|.\n${c2}+QmQQm${c1}pvvnv; ${c2}_yYsyQQWUUQQQm #QmQ#${c1}:${c2}QQQWUV$QQm.\n${c2} -QQWQW${c1}pvvo${c2}wZ?.wQQQE${c1}==<${c2}QWWQ/QWQW.QQWW${c1}(: ${c2}jQWQE\n${c2}  -$QQQQmmU'  jQQQ@${c1}+=<${c2}QWQQ)mQQQ.mQQQC${c1}+;${c2}jWQQ@'\n${c2}   -$WQ8Y${c1}nI:   ${c2}QWQQwgQQWV${c1}`${c2}mWQQ.jQWQQgyyWW@!\n${c1}     -1vvnvv.     `~+++`        ++|+++\n      +vnvnnv,                 `-|===\n       +vnvnvns.           .      :=-\n        -Invnvvnsi..___..=sv=.     `\n          +Invnvnvnnnnnnnnvvnn;.\n            ~|Invnvnvvnvvvnnv}+`\n               -~|{*l}*|~"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "Pengwin",
+  "colors": "5 5 13",
+  "ascii_art": "${c3}                     ...`\n${c3}                     `-///:-`\n${c3}                       .+${c2}ssys${c3}/\n${c3}                        +${c2}yyyyy${c3}o    ${c2}\n${c2}                        -yyyyyy:\n${c2}           `.:/+ooo+/:` -yyyyyy+\n${c2}         `:oyyyyyys+:-.`syyyyyy:\n${c2}        .syyyyyyo-`   .oyyyyyyo\n${c2}       `syyyyyy   `-+yyyyyyy/`\n${c2}       /yyyyyy+ -/osyyyyyyo/.\n${c2}       +yyyyyy-  `.-:::-.`\n${c2}       .yyyyyy-\n${c3}        :${c2}yyyyy${c3}o\n${c3}         .+${c2}ooo${c3}+\n${c3}           `.::/:."
+}

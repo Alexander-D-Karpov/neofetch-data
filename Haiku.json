@@ -1,0 +1,5 @@
+{
+  "distro_name": "Haiku",
+  "colors": "1 3 7 2",
+  "ascii_art": "${c3}\n\n           MMMM              MMMM\n           MMMM              MMMM\n           MMMM              MMMM\n           MMMM              MMMM\n           MMMM${c4}       .ciO| /YMMMMM*\"\n${c3}           MMMM${c4}   .cOMMMMM|/MMMMM/`\n ,         ,iMM|/MMMMMMMMMMMMMMM*\n  `*.__,-cMMMMMMMMMMMMMMMMM/`${c3}.MMM\n           MM${c4}MMMMMMM/`:MMM/  ${c3}MMMM\n           MMMM              MMMM\n           MMMM              MMMM\n           \"\"\"\"              \"\"\"\""
+}

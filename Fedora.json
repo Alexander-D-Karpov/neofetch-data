@@ -1,0 +1,5 @@
+{
+  "distro_name": "Fedora",
+  "colors": "12 7",
+  "ascii_art": "${c1}             .',;::::;,'.\n         .';:cccccccccccc:;,.\n      .;cccccccccccccccccccccc;.\n    .:cccccccccccccccccccccccccc:.\n  .;ccccccccccccc;${c2}.:dddl:.${c1};ccccccc;.\n .:ccccccccccccc;${c2}OWMKOOXMWd${c1};ccccccc:.\n.:ccccccccccccc;${c2}KMMc${c1};cc;${c2}xMMc${c1};ccccccc:.\n,cccccccccccccc;${c2}MMM.${c1};cc;${c2};WW:${c1};cccccccc,\n:cccccccccccccc;${c2}MMM.${c1};cccccccccccccccc:\n:ccccccc;${c2}oxOOOo${c1};${c2}MMM0OOk.${c1};cccccccccccc:\ncccccc;${c2}0MMKxdd:${c1};${c2}MMMkddc.${c1};cccccccccccc;\nccccc;${c2}XM0'${c1};cccc;${c2}MMM.${c1};cccccccccccccccc'\nccccc;${c2}MMo${c1};ccccc;${c2}MMW.${c1};ccccccccccccccc;\nccccc;${c2}0MNc.${c1}ccc${c2}.xMMd${c1};ccccccccccccccc;\ncccccc;${c2}dNMWXXXWM0:${c1};cccccccccccccc:,\ncccccccc;${c2}.:odl:.${c1};cccccccccccccc:,.\n:cccccccccccccccccccccccccccc:'.\n.:cccccccccccccccccccccc:;,..\n  '::cccccccccccccc::;,."
+}

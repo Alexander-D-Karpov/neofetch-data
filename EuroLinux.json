@@ -1,0 +1,5 @@
+{
+  "distro_name": "EuroLinux",
+  "colors": "4 7",
+  "ascii_art": "${c1}                __\n         -wwwWWWWWWWWWwww-\n        -WWWWWWWWWWWWWWWWWWw-\n          \\WWWWWWWWWWWWWWWWWWW-\n  _Ww      `WWWWWWWWWWWWWWWWWWWw\n -W${c2}E${c1}Www                -WWWWWWWWW-\n_WW${c2}U${c1}WWWW-                _WWWWWWWW\n_WW${c2}R${c1}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW-\nwWW${c2}O${c1}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWW${c2}L${c1}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw\nWWW${c2}I${c1}WWWWWWWWWWWWWWWWWWWWWWWWWWWWww-\nwWW${c2}N${c1}WWWWw\n WW${c2}U${c1}WWWWWWw\n wW${c2}X${c1}WWWWWWWWww\n   wWWWWWWWWWWWWWWWw\n    wWWWWWWWWWWWWWWWw\n       WWWWWWWWWWWWWw\n           wWWWWWWWw"
+}

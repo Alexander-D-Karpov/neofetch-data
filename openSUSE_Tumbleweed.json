@@ -1,0 +1,5 @@
+{
+  "distro_name": "openSUSE_Tumbleweed",
+  "colors": "2 7",
+  "ascii_art": "${c2}                                     ......\n     .,cdxxxoc,.               .:kKMMMNWMMMNk:.\n    cKMMN0OOOKWMMXo. ;        ;0MWk:.      .:OMMk.\n  ;WMK;.       .lKMMNM,     :NMK,             .OMW;\n cMW;            'WMMMN   ,XMK,                 oMM'\n.MMc               ..;l. xMN:                    KM0\n'MM.                   'NMO                      oMM\n.MM,                 .kMMl                       xMN\n KM0               .kMM0. .dl:,..               .WMd\n .XM0.           ,OMMK,    OMMMK.              .XMK\n   oWMO:.    .;xNMMk,       NNNMKl.          .xWMx\n     :ONMMNXMMMKx;          .  ,xNMWKkxllox0NMWk,\n         .....                    .:dOOXXKOxl,"
+}

@@ -1,0 +1,5 @@
+{
+  "distro_name": "arcolinux_small",
+  "colors": "7 4",
+  "ascii_art": "${c2}          A\n         ooo\n        ooooo\n       ooooooo\n      ooooooooo\n     ooooo ooooo\n    ooooo   ooooo\n   ooooo     ooooo\n  ooooo  ${c1}<oooooooo>${c2}\n ooooo      ${c1}<oooooo>${c2}\nooooo          ${c1}<oooo>${c2}"
+}

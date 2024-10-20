@@ -1,0 +1,5 @@
+{
+  "distro_name": "Garuda",
+  "colors": "7 7 3 7 2 4",
+  "ascii_art": "${c3}\n                     .%;888:8898898:\n                   x;XxXB%89b8:b8%b88:\n                .8Xxd                8X:.\n              .8Xx;                    8x:.\n            .tt8x          ${c6}.d${c3}            x88;\n         .@8x8;          ${c6}.db:${c3}              xx@;\n       ${c4},tSXX°          .bbbbbbbbbbbbbbbbbbbB8x@;\n     .SXxx            bBBBBBBBBBBBBBBBBBBBbSBX8;\n   ,888S                                     pd!\n  8X88/                                       q\n  GBB.\n   ${c5}x%88        d888@8@X@X@X88X@@XX@@X@8@X.\n     dxXd    dB8b8b8B8B08bB88b998888b88x.\n      dxx8o                      .@@;.\n        dx88                   .t@x.\n          d:SS@8ba89aa67a853Sxxad.\n            .d988999889889899dd."
+}

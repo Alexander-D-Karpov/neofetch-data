@@ -1,0 +1,5 @@
+{
+  "distro_name": "Android",
+  "colors": "2 7",
+  "ascii_art": "${c1}         -o          o-\n          +hydNNNNdyh+\n        +mMMMMMMMMMMMMm+\n      `dMM${c2}m:${c1}NMMMMMMN${c2}:m${c1}MMd`\n      hMMMMMMMMMMMMMMMMMMh\n  ..  yyyyyyyyyyyyyyyyyyyy  ..\n.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.\n:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:\n:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:\n:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:\n:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:\n-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-\n +yy+ MMMMMMMMMMMMMMMMMMMM +yy+\n      mMMMMMMMMMMMMMMMMMMm\n      `/++MMMMh++hMMMM++/`\n          MMMMo  oMMMM\n          MMMMo  oMMMM\n          oNMm-  -mMNs"
+}
