@@ -1,5 +1,27 @@
 {
   "distro_name": "openmamba",
   "colors": "7 2",
-  "ascii_art": "${c1}                 `````\n           .-/+ooooooooo+/:-`\n        ./ooooooooooooooooooo+:.\n      -+oooooooooooooooooooooooo+-\n    .+ooooooooo+/:---::/+ooooooooo+.\n   :oooooooo/-`          `-/oo${c2}s´${c1}oooo.${c2}s´${c1}\n  :ooooooo/`                `${c2}sNds${c1}ooo${c2}sNds${c1}\n -ooooooo-                   ${c2}:dmy${c1}ooo${c2}:dmy${c1}\n +oooooo:                      :oooooo-\n.ooooooo                        .://:`\n:oooooo+                        ./+o+:`\n-ooooooo`                      `oooooo+\n`ooooooo:                      /oooooo+\n -ooooooo:                    :ooooooo.\n  :ooooooo+.                .+ooooooo:\n   :oooooooo+-`          `-+oooooooo:\n    .+ooooooooo+/::::://oooooooooo+.\n      -+oooooooooooooooooooooooo+-\n        .:ooooooooooooooooooo+:.\n           `-:/ooooooooo+/:.`\n                 ``````"
+  "ascii_art": [
+    "${c1}                 `````",
+    "           .-/+ooooooooo+/:-`",
+    "        ./ooooooooooooooooooo+:.",
+    "      -+oooooooooooooooooooooooo+-",
+    "    .+ooooooooo+/:---::/+ooooooooo+.",
+    "   :oooooooo/-`          `-/oo${c2}s´${c1}oooo.${c2}s´${c1}",
+    "  :ooooooo/`                `${c2}sNds${c1}ooo${c2}sNds${c1}",
+    " -ooooooo-                   ${c2}:dmy${c1}ooo${c2}:dmy${c1}",
+    " +oooooo:                      :oooooo-",
+    ".ooooooo                        .://:`",
+    ":oooooo+                        ./+o+:`",
+    "-ooooooo`                      `oooooo+",
+    "`ooooooo:                      /oooooo+",
+    " -ooooooo:                    :ooooooo.",
+    "  :ooooooo+.                .+ooooooo:",
+    "   :oooooooo+-`          `-+oooooooo:",
+    "    .+ooooooooo+/::::://oooooooooo+.",
+    "      -+oooooooooooooooooooooooo+-",
+    "        .:ooooooooooooooooooo+:.",
+    "           `-:/ooooooooo+/:.`",
+    "                 ``````"
+  ]
 }

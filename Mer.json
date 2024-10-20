@@ -1,5 +1,33 @@
 {
   "distro_name": "Mer",
   "colors": "4 7 1",
-  "ascii_art": "${c1}                         dMs\n                         .-`\n                       `y`-o+`\n                        ``NMMy\n                      .--`:++.\n                    .hNNNNs\n                    /MMMMMN\n                    `ommmd/ +/\n                      ````  +/\n                     `:+sssso/-`\n  .-::. `-::-`     `smNMNmdmNMNd/      .://-`\n.ymNMNNdmNMMNm+`  -dMMh:.....+dMMs   `sNNMMNo\ndMN+::NMMy::hMM+  mMMo `ohhy/ `dMM+  yMMy::-\nMMm   yMM-  :MMs  NMN` `:::::--sMMh  dMM`\nMMm   yMM-  -MMs  mMM+ `ymmdsymMMMs  dMM`\nNNd   sNN-  -NNs  -mMNs-.--..:dMMh`  dNN\n---   .--`  `--.   .smMMmdddmMNdo`   .--\n                     ./ohddds+:`\n                     +h- `.:-.\n                     ./`.dMMMN+\n                        +MMMMMd\n                        `+dmmy-\n                      ``` .+`\n                     .dMNo-y.\n                     `hmm/\n                         .:`\n                         dMs"
+  "ascii_art": [
+    "${c1}                         dMs",
+    "                         .-`",
+    "                       `y`-o+`",
+    "                        ``NMMy",
+    "                      .--`:++.",
+    "                    .hNNNNs",
+    "                    /MMMMMN",
+    "                    `ommmd/ +/",
+    "                      ````  +/",
+    "                     `:+sssso/-`",
+    "  .-::. `-::-`     `smNMNmdmNMNd/      .://-`",
+    ".ymNMNNdmNMMNm+`  -dMMh:.....+dMMs   `sNNMMNo",
+    "dMN+::NMMy::hMM+  mMMo `ohhy/ `dMM+  yMMy::-",
+    "MMm   yMM-  :MMs  NMN` `:::::--sMMh  dMM`",
+    "MMm   yMM-  -MMs  mMM+ `ymmdsymMMMs  dMM`",
+    "NNd   sNN-  -NNs  -mMNs-.--..:dMMh`  dNN",
+    "---   .--`  `--.   .smMMmdddmMNdo`   .--",
+    "                     ./ohddds+:`",
+    "                     +h- `.:-.",
+    "                     ./`.dMMMN+",
+    "                        +MMMMMd",
+    "                        `+dmmy-",
+    "                      ``` .+`",
+    "                     .dMNo-y.",
+    "                     `hmm/",
+    "                         .:`",
+    "                         dMs"
+  ]
 }

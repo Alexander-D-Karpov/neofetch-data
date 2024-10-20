@@ -1,5 +1,26 @@
 {
   "distro_name": "Namib",
   "colors": "1",
-  "ascii_art": "${c1}          .:+shysyhhhhysyhs+:.\n       -/yyys              syyy/-\n     -shy                      yhs-\n   -yhs                          shy-\n  +hy                              yh+\n +ds                                sd+\n/ys                  so              sy/\nsh                 smMMNdyo           hs\nyo               ymMMMMNNMMNho        oy\nN             ydMMMNNMMMMMMMMMmy       N\nN         shmMMMMNNMMMMMMMMMMMMMNy     N\nyo  ooshmNMMMNNNNMMMMMMMMMMMMMMMMMms  oy\nsd yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ds\n/ys                                  sy/\n +ds                                sd+\n  +hy                              yh+\n   -yhs                          shy-\n     -shy                      yhs-\n       -/yyys              syyy/-\n          .:+shysyhyhhysyhs+:."
+  "ascii_art": [
+    "${c1}          .:+shysyhhhhysyhs+:.",
+    "       -/yyys              syyy/-",
+    "     -shy                      yhs-",
+    "   -yhs                          shy-",
+    "  +hy                              yh+",
+    " +ds                                sd+",
+    "/ys                  so              sy/",
+    "sh                 smMMNdyo           hs",
+    "yo               ymMMMMNNMMNho        oy",
+    "N             ydMMMNNMMMMMMMMMmy       N",
+    "N         shmMMMMNNMMMMMMMMMMMMMNy     N",
+    "yo  ooshmNMMMNNNNMMMMMMMMMMMMMMMMMms  oy",
+    "sd yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ds",
+    "/ys                                  sy/",
+    " +ds                                sd+",
+    "  +hy                              yh+",
+    "   -yhs                          shy-",
+    "     -shy                      yhs-",
+    "       -/yyys              syyy/-",
+    "          .:+shysyhyhhysyhs+:."
+  ]
 }

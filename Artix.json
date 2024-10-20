@@ -1,5 +1,26 @@
 {
   "distro_name": "Artix",
   "colors": "6 6 7 1",
-  "ascii_art": "${c1}                   '\n                  'o'\n                 'ooo'\n                'ooxoo'\n               'ooxxxoo'\n              'oookkxxoo'\n             'oiioxkkxxoo'\n            ':;:iiiioxxxoo'\n               `'.;::ioxxoo'\n          '-.      `':;jiooo'\n         'oooio-..     `'i:io'\n        'ooooxxxxoio:,.   `'-;'\n       'ooooxxxxxkkxoooIi:-.  `'\n      'ooooxxxxxkkkkxoiiiiiji'\n     'ooooxxxxxkxxoiiii:'`     .i'\n    'ooooxxxxxoi:::'`       .;ioxo'\n   'ooooxooi::'`         .:iiixkxxo'\n  'ooooi:'`                `'';ioxxo'\n 'i:'`                          '':io'\n'`                                   `'"
+  "ascii_art": [
+    "${c1}                   '",
+    "                  'o'",
+    "                 'ooo'",
+    "                'ooxoo'",
+    "               'ooxxxoo'",
+    "              'oookkxxoo'",
+    "             'oiioxkkxxoo'",
+    "            ':;:iiiioxxxoo'",
+    "               `'.;::ioxxoo'",
+    "          '-.      `':;jiooo'",
+    "         'oooio-..     `'i:io'",
+    "        'ooooxxxxoio:,.   `'-;'",
+    "       'ooooxxxxxkkxoooIi:-.  `'",
+    "      'ooooxxxxxkkkkxoiiiiiji'",
+    "     'ooooxxxxxkxxoiiii:'`     .i'",
+    "    'ooooxxxxxoi:::'`       .;ioxo'",
+    "   'ooooxooi::'`         .:iiixkxxo'",
+    "  'ooooi:'`                `'';ioxxo'",
+    " 'i:'`                          '':io'",
+    "'`                                   `'"
+  ]
 }

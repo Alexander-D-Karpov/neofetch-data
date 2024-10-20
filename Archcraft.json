@@ -1,5 +1,24 @@
 {
   "distro_name": "Archcraft",
   "colors": "6 6 7 1",
-  "ascii_art": "${c1}                   -m:\n                  :NMM+      .+\n                 +MMMMMo    -NMy\n                sMMMMMMMy  -MMMMh`\n               yMMMMMMMMMd` oMMMMd`\n             `dMMMMMMMMMMMm. /MMMMm-\n            .mMMMMMm-dMMMMMN- :NMMMN:\n           -NMMMMMd`  yMMMMMN: .mMMMM/\n          :NMMMMMy     sMMMMMM+ `dMMMMo\n         +MMMMMMs       +MMMMMMs `hMMMMy\n        oMMMMMMMds-      :NMMMMMy  sMMMMh`\n       yMMMMMNoydMMmo`    -NMMMMMd` +MMMMd.\n     `dMMMMMN-   `:yNNs`   .mMMMMMm. /MMMMm-\n    .mMMMMMm.        :hN/   `dMMMMMN- -NMMMN:\n   -NMMMMMd`           -hh`  `yMMMMMN: .mMMMM/\n  :NMMMMMy         `s`   :h.   oMMMMMM+ `-----\n +MMMMMMo         .dMm.   `o.   +MMMMMMo\nsMMMMMM+         .mMMMN:    :`   :NMMMMMy"
+  "ascii_art": [
+    "${c1}                   -m:",
+    "                  :NMM+      .+",
+    "                 +MMMMMo    -NMy",
+    "                sMMMMMMMy  -MMMMh`",
+    "               yMMMMMMMMMd` oMMMMd`",
+    "             `dMMMMMMMMMMMm. /MMMMm-",
+    "            .mMMMMMm-dMMMMMN- :NMMMN:",
+    "           -NMMMMMd`  yMMMMMN: .mMMMM/",
+    "          :NMMMMMy     sMMMMMM+ `dMMMMo",
+    "         +MMMMMMs       +MMMMMMs `hMMMMy",
+    "        oMMMMMMMds-      :NMMMMMy  sMMMMh`",
+    "       yMMMMMNoydMMmo`    -NMMMMMd` +MMMMd.",
+    "     `dMMMMMN-   `:yNNs`   .mMMMMMm. /MMMMm-",
+    "    .mMMMMMm.        :hN/   `dMMMMMN- -NMMMN:",
+    "   -NMMMMMd`           -hh`  `yMMMMMN: .mMMMM/",
+    "  :NMMMMMy         `s`   :h.   oMMMMMM+ `-----",
+    " +MMMMMMo         .dMm.   `o.   +MMMMMMo",
+    "sMMMMMM+         .mMMMN:    :`   :NMMMMMy"
+  ]
 }

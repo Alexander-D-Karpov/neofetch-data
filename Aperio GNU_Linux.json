@@ -1,5 +1,10 @@
 {
   "distro_name": "Aperio GNU/Linux",
   "colors": "255",
-  "ascii_art": "${c2}\n _.._  _ ._.. _\n(_][_)(/,[  |(_)\n   |   GNU/Linux"
+  "ascii_art": [
+    "${c2}",
+    " _.._  _ ._.. _",
+    "(_][_)(/,[  |(_)",
+    "   |   GNU/Linux"
+  ]
 }

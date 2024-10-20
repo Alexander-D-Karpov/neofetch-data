@@ -1,5 +1,26 @@
 {
   "distro_name": "Siduction",
   "colors": "4 4",
-  "ascii_art": "${c1}                _aass,\n               jQh: =$w\n               QWmwawQW\n               )$QQQQ@(   ..\n         _a_a.   ~??^  syDY?Sa,\n       _mW>-<$c       jWmi  imm.\n       ]QQwayQE       4QQmgwmQQ`\n        ?WWQWP'       -9QQQQQ@'._aas,\n _a%is.        .adYYs,. -\"?!` aQB*~^3$c\n_Qh;.nm       .QWc. {QL      ]QQp;..vmQ/\n\"QQmmQ@       -QQQggmQP      ]QQWmggmQQ(\n -???\"         \"$WQQQY`  __,  ?QQQQQQW!\n        _yZ!?q,   -   .yWY!!Sw, \"???^\n       .QQa_=qQ       mQm>..vmm\n        $QQWQQP       $QQQgmQQ@\n         \"???\"   _aa, -9WWQQWY`\n               _mB>~)$a  -~~\n               mQms_vmQ.\n               ]WQQQQQP\n                -?T??\""
+  "ascii_art": [
+    "${c1}                _aass,",
+    "               jQh: =$w",
+    "               QWmwawQW",
+    "               )$QQQQ@(   ..",
+    "         _a_a.   ~??^  syDY?Sa,",
+    "       _mW>-<$c       jWmi  imm.",
+    "       ]QQwayQE       4QQmgwmQQ`",
+    "        ?WWQWP'       -9QQQQQ@'._aas,",
+    " _a%is.        .adYYs,. -\"?!` aQB*~^3$c",
+    "_Qh;.nm       .QWc. {QL      ]QQp;..vmQ/",
+    "\"QQmmQ@       -QQQggmQP      ]QQWmggmQQ(",
+    " -???\"         \"$WQQQY`  __,  ?QQQQQQW!",
+    "        _yZ!?q,   -   .yWY!!Sw, \"???^",
+    "       .QQa_=qQ       mQm>..vmm",
+    "        $QQWQQP       $QQQgmQQ@",
+    "         \"???\"   _aa, -9WWQQWY`",
+    "               _mB>~)$a  -~~",
+    "               mQms_vmQ.",
+    "               ]WQQQQQP",
+    "                -?T??\""
+  ]
 }

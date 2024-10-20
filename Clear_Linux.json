@@ -1,5 +1,26 @@
 {
   "distro_name": "Clear_Linux",
   "colors": "4 3 7 6",
-  "ascii_art": "${c1}          BBB\n       BBBBBBBBB\n     BBBBBBBBBBBBBBB\n   BBBBBBBBBBBBBBBBBBBB\n   BBBBBBBBBBB         BBB\n  BBBBBBBB${c2}YYYYY\n${c1}  BBBBBBBB${c2}YYYYYY\n${c1}  BBBBBBBB${c2}YYYYYYY\n${c1}  BBBBBBBBB${c2}YYYYY${c3}W\n${c4} GG${c1}BBBBBBBY${c2}YYYY${c3}WWW\n${c4} GGG${c1}BBBBBBB${c2}YY${c3}WWWWWWWW\n${c4} GGGGGG${c1}BBBBBB${c3}WWWWWWWW\n${c4} GGGGGGGG${c1}BBBB${c3}WWWWWWWW\n${c4}GGGGGGGGGGG${c1}BBB${c3}WWWWWWW\n${c4}GGGGGGGGGGGGG${c1}B${c3}WWWWWW\n${c4}GGGGGGGG${c3}WWWWWWWWWWW\n${c4}GG${c3}WWWWWWWWWWWWWWWW\n WWWWWWWWWWWWWWWW\n      WWWWWWWWWW\n          WWW"
+  "ascii_art": [
+    "${c1}          BBB",
+    "       BBBBBBBBB",
+    "     BBBBBBBBBBBBBBB",
+    "   BBBBBBBBBBBBBBBBBBBB",
+    "   BBBBBBBBBBB         BBB",
+    "  BBBBBBBB${c2}YYYYY",
+    "${c1}  BBBBBBBB${c2}YYYYYY",
+    "${c1}  BBBBBBBB${c2}YYYYYYY",
+    "${c1}  BBBBBBBBB${c2}YYYYY${c3}W",
+    "${c4} GG${c1}BBBBBBBY${c2}YYYY${c3}WWW",
+    "${c4} GGG${c1}BBBBBBB${c2}YY${c3}WWWWWWWW",
+    "${c4} GGGGGG${c1}BBBBBB${c3}WWWWWWWW",
+    "${c4} GGGGGGGG${c1}BBBB${c3}WWWWWWWW",
+    "${c4}GGGGGGGGGGG${c1}BBB${c3}WWWWWWW",
+    "${c4}GGGGGGGGGGGGG${c1}B${c3}WWWWWW",
+    "${c4}GGGGGGGG${c3}WWWWWWWWWWW",
+    "${c4}GG${c3}WWWWWWWWWWWWWWWW",
+    " WWWWWWWWWWWWWWWW",
+    "      WWWWWWWWWW",
+    "          WWW"
+  ]
 }

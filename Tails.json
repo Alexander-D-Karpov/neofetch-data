@@ -1,5 +1,25 @@
 {
   "distro_name": "Tails",
   "colors": "5 7",
-  "ascii_art": "${c1}      ``\n  ./yhNh\nsyy/Nshh         `:o/\nN:dsNshh  █   `ohNMMd\nN-/+Nshh      `yMMMMd\nN-yhMshh       yMMMMd\nN-s:hshh  █    yMMMMd so//.\nN-oyNsyh       yMMMMd d  Mms.\nN:hohhhd:.     yMMMMd  syMMM+\nNsyh+-..+y+-   yMMMMd   :mMM+\n+hy-      -ss/`yMMMM     `+d+\n  :sy/.     ./yNMMMMm      ``\n    .+ys- `:+hNMMMMMMy/`\n      `hNmmMMMMMMMMMMMMdo.\n       dMMMMMMMMMMMMMMMMMNh:\n       +hMMMMMMMMMMMMMMMMMmy.\n         -oNMMMMMMMMMMmy+.`\n           `:yNMMMds/.`\n              .//`"
+  "ascii_art": [
+    "${c1}      ``",
+    "  ./yhNh",
+    "syy/Nshh         `:o/",
+    "N:dsNshh  █   `ohNMMd",
+    "N-/+Nshh      `yMMMMd",
+    "N-yhMshh       yMMMMd",
+    "N-s:hshh  █    yMMMMd so//.",
+    "N-oyNsyh       yMMMMd d  Mms.",
+    "N:hohhhd:.     yMMMMd  syMMM+",
+    "Nsyh+-..+y+-   yMMMMd   :mMM+",
+    "+hy-      -ss/`yMMMM     `+d+",
+    "  :sy/.     ./yNMMMMm      ``",
+    "    .+ys- `:+hNMMMMMMy/`",
+    "      `hNmmMMMMMMMMMMMMdo.",
+    "       dMMMMMMMMMMMMMMMMMNh:",
+    "       +hMMMMMMMMMMMMMMMMMmy.",
+    "         -oNMMMMMMMMMMmy+.`",
+    "           `:yNMMMds/.`",
+    "              .//`"
+  ]
 }

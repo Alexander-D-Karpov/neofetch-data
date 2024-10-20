@@ -1,5 +1,26 @@
 {
   "distro_name": "ChaletOS",
   "colors": "4 7 1",
-  "ascii_art": "${c1}             `.//+osso+/:``\n         `/sdNNmhyssssydmNNdo:`\n       :hNmy+-`          .-+hNNs-\n     /mMh/`       `+:`       `+dMd:\n   .hMd-        -sNNMNo.  /yyy  /mMs`\n  -NM+       `/dMd/--omNh::dMM   `yMd`\n .NN+      .sNNs:/dMNy:/hNmo/s     yMd`\n hMs    `/hNd+-smMMMMMMd+:omNy-    `dMo\n:NM.  .omMy:/hNMMMMMMMMMMNy:/hMd+`  :Md`\n/Md` `sm+.omMMMMMMMMMMMMMMMMd/-sm+  .MN:\n/Md`      MMMMMMMMMMMMMMMMMMMN      .MN:\n:NN.      MMMMMMm....--NMMMMMN      -Mm.\n`dMo      MMMMMMd      mMMMMMN      hMs\n -MN:     MMMMMMd      mMMMMMN     oMm`\n  :NM:    MMMMMMd      mMMMMMN    +Mm-\n   -mMy.  mmmmmmh      dmmmmmh  -hMh.\n     oNNs-                    :yMm/\n      .+mMdo:`            `:smMd/`\n         -ohNNmhsoo++osshmNNh+.\n            `./+syyhhyys+:``"
+  "ascii_art": [
+    "${c1}             `.//+osso+/:``",
+    "         `/sdNNmhyssssydmNNdo:`",
+    "       :hNmy+-`          .-+hNNs-",
+    "     /mMh/`       `+:`       `+dMd:",
+    "   .hMd-        -sNNMNo.  /yyy  /mMs`",
+    "  -NM+       `/dMd/--omNh::dMM   `yMd`",
+    " .NN+      .sNNs:/dMNy:/hNmo/s     yMd`",
+    " hMs    `/hNd+-smMMMMMMd+:omNy-    `dMo",
+    ":NM.  .omMy:/hNMMMMMMMMMMNy:/hMd+`  :Md`",
+    "/Md` `sm+.omMMMMMMMMMMMMMMMMd/-sm+  .MN:",
+    "/Md`      MMMMMMMMMMMMMMMMMMMN      .MN:",
+    ":NN.      MMMMMMm....--NMMMMMN      -Mm.",
+    "`dMo      MMMMMMd      mMMMMMN      hMs",
+    " -MN:     MMMMMMd      mMMMMMN     oMm`",
+    "  :NM:    MMMMMMd      mMMMMMN    +Mm-",
+    "   -mMy.  mmmmmmh      dmmmmmh  -hMh.",
+    "     oNNs-                    :yMm/",
+    "      .+mMdo:`            `:smMd/`",
+    "         -ohNNmhsoo++osshmNNh+.",
+    "            `./+syyhhyys+:``"
+  ]
 }

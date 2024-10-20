@@ -1,5 +1,24 @@
 {
   "distro_name": "Refracted_Devuan",
   "colors": "8 7",
-  "ascii_art": "${c2}                             A\n                            VW\n                           VVW\\\\\n                         .yWWW\\\\\n ,;,,u,;yy;;v;uyyyyyyy  ,WWWWW^\n    *WWWWWWWWWWWWWWWW/  $VWWWWw      ,\n        ^*%WWWWWWVWWX  $WWWW**    ,yy\n        ,    \"**WWW/' **'   ,yy/WWW*`\n       &WWWWwy    `*`  <,ywWW%VWWW*\n     yWWWWWWWWWW*    .,   \"**WW%W\n   ,&WWWWWM*\"`  ,y/  &WWWww   ^*\n  XWWX*^   ,yWWWW09 .WWWWWWWWwy,\n *`        &WWWWWM  WWWWWWWWWWWWWww,\n           (WWWWW` /#####WWW***********\n           ^WWWW\n            VWW\n            Wh.\n            V/"
+  "ascii_art": [
+    "${c2}                             A",
+    "                            VW",
+    "                           VVW\\\\",
+    "                         .yWWW\\\\",
+    " ,;,,u,;yy;;v;uyyyyyyy  ,WWWWW^",
+    "    *WWWWWWWWWWWWWWWW/  $VWWWWw      ,",
+    "        ^*%WWWWWWVWWX  $WWWW**    ,yy",
+    "        ,    \"**WWW/' **'   ,yy/WWW*`",
+    "       &WWWWwy    `*`  <,ywWW%VWWW*",
+    "     yWWWWWWWWWW*    .,   \"**WW%W",
+    "   ,&WWWWWM*\"`  ,y/  &WWWww   ^*",
+    "  XWWX*^   ,yWWWW09 .WWWWWWWWwy,",
+    " *`        &WWWWWM  WWWWWWWWWWWWWww,",
+    "           (WWWWW` /#####WWW***********",
+    "           ^WWWW",
+    "            VWW",
+    "            Wh.",
+    "            V/"
+  ]
 }

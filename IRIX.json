@@ -1,5 +1,25 @@
 {
   "distro_name": "IRIX",
   "colors": "4 7",
-  "ascii_art": "${c1}           ./ohmNd/  +dNmho/-\n     `:+ydNMMMMMMMM.-MMMMMMMMMdyo:.\n   `hMMMMMMNhs/sMMM-:MMM+/shNMMMMMMh`\n   -NMMMMMmo-` /MMM-/MMM- `-omMMMMMN.\n `.`-+hNMMMMMNhyMMM-/MMMshmMMMMMmy+...`\n+mMNds:-:sdNMMMMMMMyyMMMMMMMNdo:.:sdMMm+\ndMMMMMMmy+.-/ymNMMMMMMMMNmy/-.+hmMMMMMMd\noMMMMmMMMMNds:.+MMMmmMMN/.-odNMMMMmMMMM+\n.MMMM-/ymMMMMMmNMMy..hMMNmMMMMMmy/-MMMM.\n hMMM/ `/dMMMMMMMN////NMMMMMMMd/. /MMMh\n /MMMdhmMMMmyyMMMMMMMMMMMMhymMMMmhdMMM:\n `mMMMMNho//sdMMMMM//NMMMMms//ohNMMMMd\n  `/so/:+ymMMMNMMMM` mMMMMMMMmh+::+o/`\n     `yNMMNho-yMMMM` NMMMm.+hNMMNh`\n     -MMMMd:  oMMMM. NMMMh  :hMMMM-\n      -yNMMMmooMMMM- NMMMyomMMMNy-\n        .omMMMMMMMM-`NMMMMMMMmo.\n          `:hMMMMMM. NMMMMMh/`\n             .odNm+  /dNms."
+  "ascii_art": [
+    "${c1}           ./ohmNd/  +dNmho/-",
+    "     `:+ydNMMMMMMMM.-MMMMMMMMMdyo:.",
+    "   `hMMMMMMNhs/sMMM-:MMM+/shNMMMMMMh`",
+    "   -NMMMMMmo-` /MMM-/MMM- `-omMMMMMN.",
+    " `.`-+hNMMMMMNhyMMM-/MMMshmMMMMMmy+...`",
+    "+mMNds:-:sdNMMMMMMMyyMMMMMMMNdo:.:sdMMm+",
+    "dMMMMMMmy+.-/ymNMMMMMMMMNmy/-.+hmMMMMMMd",
+    "oMMMMmMMMMNds:.+MMMmmMMN/.-odNMMMMmMMMM+",
+    ".MMMM-/ymMMMMMmNMMy..hMMNmMMMMMmy/-MMMM.",
+    " hMMM/ `/dMMMMMMMN////NMMMMMMMd/. /MMMh",
+    " /MMMdhmMMMmyyMMMMMMMMMMMMhymMMMmhdMMM:",
+    " `mMMMMNho//sdMMMMM//NMMMMms//ohNMMMMd",
+    "  `/so/:+ymMMMNMMMM` mMMMMMMMmh+::+o/`",
+    "     `yNMMNho-yMMMM` NMMMm.+hNMMNh`",
+    "     -MMMMd:  oMMMM. NMMMh  :hMMMM-",
+    "      -yNMMMmooMMMM- NMMMyomMMMNy-",
+    "        .omMMMMMMMM-`NMMMMMMMmo.",
+    "          `:hMMMMMM. NMMMMMh/`",
+    "             .odNm+  /dNms."
+  ]
 }

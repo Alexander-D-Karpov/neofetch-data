@@ -1,5 +1,26 @@
 {
   "distro_name": "Ubuntu-Budgie",
   "colors": "4 7 1",
-  "ascii_art": "${c2}           ./oydmMMMMMMmdyo/.\n        :smMMMMMMMMMMMhs+:++yhs:\n     `omMMMMMMMMMMMN+`        `odo`\n    /NMMMMMMMMMMMMN-            `sN/\n  `hMMMMmhhmMMMMMMh               sMh`\n .mMmo-     /yMMMMm`              `MMm.\n mN/       yMMMMMMMd-              MMMm\noN-        oMMMMMMMMMms+//+o+:    :MMMMo\nm/          +NMMMMMMMMMMMMMMMMm. :NMMMMm\nM`           .NMMMMMMMMMMMMMMMNodMMMMMMM\nM-            sMMMMMMMMMMMMMMMMMMMMMMMMM\nmm`           mMMMMMMMMMNdhhdNMMMMMMMMMm\noMm/        .dMMMMMMMMh:      :dMMMMMMMo\n mMMNyo/:/sdMMMMMMMMM+          sMMMMMm\n .mMMMMMMMMMMMMMMMMMs           `NMMMm.\n  `hMMMMMMMMMMM.oo+.            `MMMh`\n    /NMMMMMMMMMo                sMN/\n     `omMMMMMMMMy.            :dmo`\n        :smMMMMMMMh+-`   `.:ohs:\n           ./oydmMMMMMMdhyo/."
+  "ascii_art": [
+    "${c2}           ./oydmMMMMMMmdyo/.",
+    "        :smMMMMMMMMMMMhs+:++yhs:",
+    "     `omMMMMMMMMMMMN+`        `odo`",
+    "    /NMMMMMMMMMMMMN-            `sN/",
+    "  `hMMMMmhhmMMMMMMh               sMh`",
+    " .mMmo-     /yMMMMm`              `MMm.",
+    " mN/       yMMMMMMMd-              MMMm",
+    "oN-        oMMMMMMMMMms+//+o+:    :MMMMo",
+    "m/          +NMMMMMMMMMMMMMMMMm. :NMMMMm",
+    "M`           .NMMMMMMMMMMMMMMMNodMMMMMMM",
+    "M-            sMMMMMMMMMMMMMMMMMMMMMMMMM",
+    "mm`           mMMMMMMMMMNdhhdNMMMMMMMMMm",
+    "oMm/        .dMMMMMMMMh:      :dMMMMMMMo",
+    " mMMNyo/:/sdMMMMMMMMM+          sMMMMMm",
+    " .mMMMMMMMMMMMMMMMMMs           `NMMMm.",
+    "  `hMMMMMMMMMMM.oo+.            `MMMh`",
+    "    /NMMMMMMMMMo                sMN/",
+    "     `omMMMMMMMMy.            :dmo`",
+    "        :smMMMMMMMh+-`   `.:ohs:",
+    "           ./oydmMMMMMMdhyo/."
+  ]
 }

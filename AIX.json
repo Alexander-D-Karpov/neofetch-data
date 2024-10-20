@@ -1,5 +1,26 @@
 {
   "distro_name": "AIX",
   "colors": "2 7",
-  "ascii_art": "${c1}           `:+ssssossossss+-`\n        .oys///oyhddddhyo///sy+.\n      /yo:+hNNNNNNNNNNNNNNNNh+:oy/\n    :h/:yNNNNNNNNNNNNNNNNNNNNNNy-+h:\n  `ys.yNNNNNNNNNNNNNNNNNNNNNNNNNNy.ys\n `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oh\n h+-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.oy\n/d`mNNNNNNN/::mNNNd::m+:/dNNNo::dNNNd`m:\nh//NNNNNNN: . .NNNh  mNo  od. -dNNNNN:+y\nN.sNNNNNN+ -N/ -NNh  mNNd.   sNNNNNNNo-m\nN.sNNNNNs  +oo  /Nh  mNNs` ` /mNNNNNNo-m\nh//NNNNh  ossss` +h  md- .hm/ `sNNNNN:+y\n:d`mNNN+/yNNNNNd//y//h//oNNNNy//sNNNd`m-\n yo-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm.ss\n `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oy\n   sy.yNNNNNNNNNNNNNNNNNNNNNNNNNNs.yo\n    :h+-yNNNNNNNNNNNNNNNNNNNNNNs-oh-\n      :ys:/yNNNNNNNNNNNNNNNmy/:sy:\n        .+ys///osyhhhhys+///sy+.\n            -/osssossossso/-"
+  "ascii_art": [
+    "${c1}           `:+ssssossossss+-`",
+    "        .oys///oyhddddhyo///sy+.",
+    "      /yo:+hNNNNNNNNNNNNNNNNh+:oy/",
+    "    :h/:yNNNNNNNNNNNNNNNNNNNNNNy-+h:",
+    "  `ys.yNNNNNNNNNNNNNNNNNNNNNNNNNNy.ys",
+    " `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oh",
+    " h+-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.oy",
+    "/d`mNNNNNNN/::mNNNd::m+:/dNNNo::dNNNd`m:",
+    "h//NNNNNNN: . .NNNh  mNo  od. -dNNNNN:+y",
+    "N.sNNNNNN+ -N/ -NNh  mNNd.   sNNNNNNNo-m",
+    "N.sNNNNNs  +oo  /Nh  mNNs` ` /mNNNNNNo-m",
+    "h//NNNNh  ossss` +h  md- .hm/ `sNNNNN:+y",
+    ":d`mNNN+/yNNNNNd//y//h//oNNNNy//sNNNd`m-",
+    " yo-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm.ss",
+    " `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oy",
+    "   sy.yNNNNNNNNNNNNNNNNNNNNNNNNNNs.yo",
+    "    :h+-yNNNNNNNNNNNNNNNNNNNNNNs-oh-",
+    "      :ys:/yNNNNNNNNNNNNNNNmy/:sy:",
+    "        .+ys///osyhhhhys+///sy+.",
+    "            -/osssossossso/-"
+  ]
 }

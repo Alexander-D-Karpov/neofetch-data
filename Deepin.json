@@ -1,5 +1,24 @@
 {
   "distro_name": "Deepin",
   "colors": "2 7",
-  "ascii_art": "${c1}             ............\n         .';;;;;.       .,;,.\n      .,;;;;;;;.       ';;;;;;;.\n    .;::::::::'     .,::;;,''''',.\n   ,'.::::::::    .;;'.          ';\n  ;'  'cccccc,   ,' :: '..        .:\n ,,    :ccccc.  ;: .c, '' :.       ,;\n.l.     cllll' ., .lc  :; .l'       l.\n.c       :lllc  ;cl:  .l' .ll.      :'\n.l        'looc. .   ,o:  'oo'      c,\n.o.         .:ool::coc'  .ooo'      o.\n ::            .....   .;dddo      ;c\n  l:...            .';lddddo.     ,o\n   lxxxxxdoolllodxxxxxxxxxc      :l\n    ,dxxxxxxxxxxxxxxxxxxl.     'o,\n      ,dkkkkkkkkkkkkko;.    .;o;\n        .;okkkkkdl;.    .,cl:.\n            .,:cccccccc:,."
+  "ascii_art": [
+    "${c1}             ............",
+    "         .';;;;;.       .,;,.",
+    "      .,;;;;;;;.       ';;;;;;;.",
+    "    .;::::::::'     .,::;;,''''',.",
+    "   ,'.::::::::    .;;'.          ';",
+    "  ;'  'cccccc,   ,' :: '..        .:",
+    " ,,    :ccccc.  ;: .c, '' :.       ,;",
+    ".l.     cllll' ., .lc  :; .l'       l.",
+    ".c       :lllc  ;cl:  .l' .ll.      :'",
+    ".l        'looc. .   ,o:  'oo'      c,",
+    ".o.         .:ool::coc'  .ooo'      o.",
+    " ::            .....   .;dddo      ;c",
+    "  l:...            .';lddddo.     ,o",
+    "   lxxxxxdoolllodxxxxxxxxxc      :l",
+    "    ,dxxxxxxxxxxxxxxxxxxl.     'o,",
+    "      ,dkkkkkkkkkkkkko;.    .;o;",
+    "        .;okkkkkdl;.    .,cl:.",
+    "            .,:cccccccc:,."
+  ]
 }

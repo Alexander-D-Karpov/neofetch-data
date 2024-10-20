@@ -1,5 +1,27 @@
 {
   "distro_name": "BlackArch",
   "colors": "1 1 0 1",
-  "ascii_art": "${c3}                   00\n                   11\n                  ====${c1}\n                  .${c3}//${c1}\n                 `o${c3}//${c1}:\n                `+o${c3}//${c1}o:\n               `+oo${c3}//${c1}oo:\n               -+oo${c3}//${c1}oo+:\n             `/:-:+${c3}//${c1}ooo+:\n            `/+++++${c3}//${c1}+++++:\n           `/++++++${c3}//${c1}++++++:\n          `/+++o${c2}ooo${c3}//${c2}ooo${c1}oooo/`\n${c2}         ${c1}./${c2}ooosssso${c3}//${c2}osssssso${c1}+`\n${c2}        .oossssso-`${c3}//${c1}`/ossssss+`\n       -osssssso.  ${c3}//${c1}  :ssssssso.\n      :osssssss/   ${c3}//${c1}   osssso+++.\n     /ossssssss/   ${c3}//${c1}   +ssssooo/-\n   `/ossssso+/:-   ${c3}//${c1}   -:/+osssso+-\n  `+sso+:-`        ${c3}//${c1}       `.-/+oso:\n `++:.             ${c3}//${c1}            `-/+/\n .`                ${c3}/${c1}                `/"
+  "ascii_art": [
+    "${c3}                   00",
+    "                   11",
+    "                  ====${c1}",
+    "                  .${c3}//${c1}",
+    "                 `o${c3}//${c1}:",
+    "                `+o${c3}//${c1}o:",
+    "               `+oo${c3}//${c1}oo:",
+    "               -+oo${c3}//${c1}oo+:",
+    "             `/:-:+${c3}//${c1}ooo+:",
+    "            `/+++++${c3}//${c1}+++++:",
+    "           `/++++++${c3}//${c1}++++++:",
+    "          `/+++o${c2}ooo${c3}//${c2}ooo${c1}oooo/`",
+    "${c2}         ${c1}./${c2}ooosssso${c3}//${c2}osssssso${c1}+`",
+    "${c2}        .oossssso-`${c3}//${c1}`/ossssss+`",
+    "       -osssssso.  ${c3}//${c1}  :ssssssso.",
+    "      :osssssss/   ${c3}//${c1}   osssso+++.",
+    "     /ossssssss/   ${c3}//${c1}   +ssssooo/-",
+    "   `/ossssso+/:-   ${c3}//${c1}   -:/+osssso+-",
+    "  `+sso+:-`        ${c3}//${c1}       `.-/+oso:",
+    " `++:.             ${c3}//${c1}            `-/+/",
+    " .`                ${c3}/${c1}                `/"
+  ]
 }

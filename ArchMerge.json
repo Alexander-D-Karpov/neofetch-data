@@ -1,5 +1,26 @@
 {
   "distro_name": "ArchMerge",
   "colors": "6 6 7 1",
-  "ascii_art": "${c1}                    y:\n                  sMN-\n                 +MMMm`\n                /MMMMMd`\n               :NMMMMMMy\n              -NMMMMMMMMs\n             .NMMMMMMMMMM+\n            .mMMMMMMMMMMMM+\n            oNMMMMMMMMMMMMM+\n          `+:-+NMMMMMMMMMMMM+\n          .sNMNhNMMMMMMMMMMMM/\n        `hho/sNMMMMMMMMMMMMMMM/\n       `.`omMMmMMMMMMMMMMMMMMMM+\n      .mMNdshMMMMd+::oNMMMMMMMMMo\n     .mMMMMMMMMM+     `yMMMMMMMMMs\n    .NMMMMMMMMM/        yMMMMMMMMMy\n   -NMMMMMMMMMh         `mNMMMMMMMMd`\n  /NMMMNds+:.`             `-/oymMMMm.\n +Mmy/.                          `:smN:\n/+.                                  -o."
+  "ascii_art": [
+    "${c1}                    y:",
+    "                  sMN-",
+    "                 +MMMm`",
+    "                /MMMMMd`",
+    "               :NMMMMMMy",
+    "              -NMMMMMMMMs",
+    "             .NMMMMMMMMMM+",
+    "            .mMMMMMMMMMMMM+",
+    "            oNMMMMMMMMMMMMM+",
+    "          `+:-+NMMMMMMMMMMMM+",
+    "          .sNMNhNMMMMMMMMMMMM/",
+    "        `hho/sNMMMMMMMMMMMMMMM/",
+    "       `.`omMMmMMMMMMMMMMMMMMMM+",
+    "      .mMNdshMMMMd+::oNMMMMMMMMMo",
+    "     .mMMMMMMMMM+     `yMMMMMMMMMs",
+    "    .NMMMMMMMMM/        yMMMMMMMMMy",
+    "   -NMMMMMMMMMh         `mNMMMMMMMMd`",
+    "  /NMMMNds+:.`             `-/oymMMMm.",
+    " +Mmy/.                          `:smN:",
+    "/+.                                  -o."
+  ]
 }

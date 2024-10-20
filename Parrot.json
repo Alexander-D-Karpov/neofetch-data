@@ -1,5 +1,30 @@
 {
   "distro_name": "Parrot",
   "colors": "6 7",
-  "ascii_art": "${c1}  `:oho/-`\n`mMMMMMMMMMMMNmmdhy-\n dMMMMMMMMMMMMMMMMMMs`\n +MMsohNMMMMMMMMMMMMMm/\n .My   .+dMMMMMMMMMMMMMh.\n  +       :NMMMMMMMMMMMMNo\n           `yMMMMMMMMMMMMMm:\n             /NMMMMMMMMMMMMMy`\n              .hMMMMMMMMMMMMMN+\n                  ``-NMMMMMMMMMd-\n                     /MMMMMMMMMMMs`\n                      mMMMMMMMsyNMN/\n                      +MMMMMMMo  :sNh.\n                      `NMMMMMMm     -o/\n                       oMMMMMMM.\n                       `NMMMMMM+\n                        +MMd/NMh\n                         mMm -mN`\n                         /MM  `h:\n                          dM`   .\n                          :M-\n                           d:\n                           -+\n                            -"
+  "ascii_art": [
+    "${c1}  `:oho/-`",
+    "`mMMMMMMMMMMMNmmdhy-",
+    " dMMMMMMMMMMMMMMMMMMs`",
+    " +MMsohNMMMMMMMMMMMMMm/",
+    " .My   .+dMMMMMMMMMMMMMh.",
+    "  +       :NMMMMMMMMMMMMNo",
+    "           `yMMMMMMMMMMMMMm:",
+    "             /NMMMMMMMMMMMMMy`",
+    "              .hMMMMMMMMMMMMMN+",
+    "                  ``-NMMMMMMMMMd-",
+    "                     /MMMMMMMMMMMs`",
+    "                      mMMMMMMMsyNMN/",
+    "                      +MMMMMMMo  :sNh.",
+    "                      `NMMMMMMm     -o/",
+    "                       oMMMMMMM.",
+    "                       `NMMMMMM+",
+    "                        +MMd/NMh",
+    "                         mMm -mN`",
+    "                         /MM  `h:",
+    "                          dM`   .",
+    "                          :M-",
+    "                           d:",
+    "                           -+",
+    "                            -"
+  ]
 }

@@ -1,5 +1,25 @@
 {
   "distro_name": "XFerience",
   "colors": "6 6 7 1",
-  "ascii_art": "${c1}           ``--:::::::-.`\n        .-/+++ooooooooo+++:-`\n     `-/+oooooooooooooooooo++:.\n    -/+oooooo/+ooooooooo+/ooo++:`\n  `/+oo++oo.   .+oooooo+.-: +:-o+-\n `/+o/.  -o.    :oooooo+ ```:.+oo+-\n`:+oo-    -/`   :oooooo+ .`-`+oooo/.\n.+ooo+.    .`   `://///+-+..oooooo+:`\n-+ooo:`                ``.-+oooooo+/`\n-+oo/`                       :+oooo/.\n.+oo:            ..-/. .      -+oo+/`\n`/++-         -:::++::/.      -+oo+-\n ./o:          `:///+-     `./ooo+:`\n  .++-         `` /-`   -:/+oooo+:`\n   .:+/:``          `-:ooooooo++-\n     ./+o+//:...../+oooooooo++:`\n       `:/++ooooooooooooo++/-`\n          `.-//++++++//:-.`\n               ``````"
+  "ascii_art": [
+    "${c1}           ``--:::::::-.`",
+    "        .-/+++ooooooooo+++:-`",
+    "     `-/+oooooooooooooooooo++:.",
+    "    -/+oooooo/+ooooooooo+/ooo++:`",
+    "  `/+oo++oo.   .+oooooo+.-: +:-o+-",
+    " `/+o/.  -o.    :oooooo+ ```:.+oo+-",
+    "`:+oo-    -/`   :oooooo+ .`-`+oooo/.",
+    ".+ooo+.    .`   `://///+-+..oooooo+:`",
+    "-+ooo:`                ``.-+oooooo+/`",
+    "-+oo/`                       :+oooo/.",
+    ".+oo:            ..-/. .      -+oo+/`",
+    "`/++-         -:::++::/.      -+oo+-",
+    " ./o:          `:///+-     `./ooo+:`",
+    "  .++-         `` /-`   -:/+oooo+:`",
+    "   .:+/:``          `-:ooooooo++-",
+    "     ./+o+//:...../+oooooooo++:`",
+    "       `:/++ooooooooooooo++/-`",
+    "          `.-//++++++//:-.`",
+    "               ``````"
+  ]
 }

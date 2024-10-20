@@ -1,5 +1,22 @@
 {
   "distro_name": "openSUSE_Leap",
   "colors": "2 7",
-  "ascii_art": "${c2}                 `-++:`\n               ./oooooo/-\n            `:oooooooooooo:.\n          -+oooooooooooooooo+-`\n       ./oooooooooooooooooooooo/-\n      :oooooooooooooooooooooooooo:\n    `  `-+oooooooooooooooooooo/-   `\n `:oo/-   .:ooooooooooooooo+:`  `-+oo/.\n`/oooooo:.   -/oooooooooo/.   ./oooooo/.\n  `:+ooooo+-`  `:+oooo+-   `:oooooo+:`\n     .:oooooo/.   .::`   -+oooooo/.\n        -/oooooo:.    ./oooooo+-\n          `:+ooooo+-:+oooooo:`\n             ./oooooooooo/.\n                -/oooo+:`\n                  `:/."
+  "ascii_art": [
+    "${c2}                 `-++:`",
+    "               ./oooooo/-",
+    "            `:oooooooooooo:.",
+    "          -+oooooooooooooooo+-`",
+    "       ./oooooooooooooooooooooo/-",
+    "      :oooooooooooooooooooooooooo:",
+    "    `  `-+oooooooooooooooooooo/-   `",
+    " `:oo/-   .:ooooooooooooooo+:`  `-+oo/.",
+    "`/oooooo:.   -/oooooooooo/.   ./oooooo/.",
+    "  `:+ooooo+-`  `:+oooo+-   `:oooooo+:`",
+    "     .:oooooo/.   .::`   -+oooooo/.",
+    "        -/oooooo:.    ./oooooo+-",
+    "          `:+ooooo+-:+oooooo:`",
+    "             ./oooooooooo/.",
+    "                -/oooo+:`",
+    "                  `:/."
+  ]
 }

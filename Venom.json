@@ -1,5 +1,21 @@
 {
   "distro_name": "Venom",
   "colors": "8 4",
-  "ascii_art": "${c1}   :::::::          :::::::\n   mMMMMMMm        dMMMMMMm\n   /MMMMMMMo      +MMMMMMM/\n    yMMMMMMN      mMMMMMMy\n     NMMMMMMs    oMMMMMMm\n     +MMMMMMN:   NMMMMMM+\n      hMMMMMMy  sMMMMMMy\n      :NMMMMMM::NMMMMMN:\n       oMMMMMMyyMMMMMM+\n        dMMMMMMMMMMMMh\n        /MMMMMMMMMMMN:\n         sMMMMMMMMMMo\n          mMMMMMMMMd\n          +MMMMMMMN:\n            ::::::"
+  "ascii_art": [
+    "${c1}   :::::::          :::::::",
+    "   mMMMMMMm        dMMMMMMm",
+    "   /MMMMMMMo      +MMMMMMM/",
+    "    yMMMMMMN      mMMMMMMy",
+    "     NMMMMMMs    oMMMMMMm",
+    "     +MMMMMMN:   NMMMMMM+",
+    "      hMMMMMMy  sMMMMMMy",
+    "      :NMMMMMM::NMMMMMN:",
+    "       oMMMMMMyyMMMMMM+",
+    "        dMMMMMMMMMMMMh",
+    "        /MMMMMMMMMMMN:",
+    "         sMMMMMMMMMMo",
+    "          mMMMMMMMMd",
+    "          +MMMMMMMN:",
+    "            ::::::"
+  ]
 }

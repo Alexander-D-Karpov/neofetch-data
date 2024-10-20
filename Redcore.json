@@ -1,5 +1,22 @@
 {
   "distro_name": "Redcore",
   "colors": "1",
-  "ascii_art": "${c1}                 RRRRRRRRR\n               RRRRRRRRRRRRR\n        RRRRRRRRRR      RRRRR\n   RRRRRRRRRRRRRRRRRRRRRRRRRRR\n RRRRRRR  RRR         RRR RRRRRRRR\nRRRRR    RR                 RRRRRRRRR\nRRRR    RR     RRRRRRRR      RR RRRRRR\nRRRR   R    RRRRRRRRRRRRRR   RR   RRRRR\nRRRR   R  RRRRRRRRRRRRRRRRRR  R   RRRRR\nRRRR     RRRRRRRRRRRRRRRRRRR  R   RRRR\n RRR     RRRRRRRRRRRRRRRRRRRR R   RRRR\n  RRR    RRRRRRRRRRRRRRRRRRRR    RRRR\n    RR   RRRRRRRRRRRRRRRRRRR    RRR\n     RR   RRRRRRRRRRRRRRRRR    RRR\n       RR   RRRRRRRRRRRRRR   RR\n         R       RRRR      RR"
+  "ascii_art": [
+    "${c1}                 RRRRRRRRR",
+    "               RRRRRRRRRRRRR",
+    "        RRRRRRRRRR      RRRRR",
+    "   RRRRRRRRRRRRRRRRRRRRRRRRRRR",
+    " RRRRRRR  RRR         RRR RRRRRRRR",
+    "RRRRR    RR                 RRRRRRRRR",
+    "RRRR    RR     RRRRRRRR      RR RRRRRR",
+    "RRRR   R    RRRRRRRRRRRRRR   RR   RRRRR",
+    "RRRR   R  RRRRRRRRRRRRRRRRRR  R   RRRRR",
+    "RRRR     RRRRRRRRRRRRRRRRRRR  R   RRRR",
+    " RRR     RRRRRRRRRRRRRRRRRRRR R   RRRR",
+    "  RRR    RRRRRRRRRRRRRRRRRRRR    RRRR",
+    "    RR   RRRRRRRRRRRRRRRRRRR    RRR",
+    "     RR   RRRRRRRRRRRRRRRRR    RRR",
+    "       RR   RRRRRRRRRRRRRR   RR",
+    "         R       RRRR      RR"
+  ]
 }

@@ -1,5 +1,26 @@
 {
   "distro_name": "Maui",
   "colors": "6 7",
-  "ascii_art": "${c1}             `.-://////:--`\n         .:/oooooooooooooooo+:.\n      `:+ooooooooooooooooooooooo:`\n    `:oooooooooooooooooooooooooooo/`\n    ..```-oooooo/-`` `:oooooo+:.` `--\n  :.      +oo+-`       /ooo/`       -/\n -o.     `o+-          +o/`         -o:\n`oo`     ::`  :o/     `+.  .+o`     /oo.\n/o+      .  -+oo-     `   /oo/     `ooo/\n+o-        /ooo+`       .+ooo.     :ooo+\n++       .+oooo:       -oooo+     `oooo+\n:.      .oooooo`      :ooooo-     :oooo:\n`      .oooooo:      :ooooo+     `ooo+-`\n      .+oooooo`     -oooooo:     `o/-\n      +oooooo:     .ooooooo.\n     /ooooooo`     /ooooooo/       ..\n    `:oooooooo/:::/ooooooooo+:--:/:`\n      `:+oooooooooooooooooooooo+:`\n         .:+oooooooooooooooo+:.\n             `.-://////:-.`"
+  "ascii_art": [
+    "${c1}             `.-://////:--`",
+    "         .:/oooooooooooooooo+:.",
+    "      `:+ooooooooooooooooooooooo:`",
+    "    `:oooooooooooooooooooooooooooo/`",
+    "    ..```-oooooo/-`` `:oooooo+:.` `--",
+    "  :.      +oo+-`       /ooo/`       -/",
+    " -o.     `o+-          +o/`         -o:",
+    "`oo`     ::`  :o/     `+.  .+o`     /oo.",
+    "/o+      .  -+oo-     `   /oo/     `ooo/",
+    "+o-        /ooo+`       .+ooo.     :ooo+",
+    "++       .+oooo:       -oooo+     `oooo+",
+    ":.      .oooooo`      :ooooo-     :oooo:",
+    "`      .oooooo:      :ooooo+     `ooo+-`",
+    "      .+oooooo`     -oooooo:     `o/-",
+    "      +oooooo:     .ooooooo.",
+    "     /ooooooo`     /ooooooo/       ..",
+    "    `:oooooooo/:::/ooooooooo+:--:/:`",
+    "      `:+oooooooooooooooooooooo+:`",
+    "         .:+oooooooooooooooo+:.",
+    "             `.-://////:-.`"
+  ]
 }

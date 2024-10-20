@@ -1,5 +1,18 @@
 {
   "distro_name": "gNewSense",
   "colors": "4 5 7 6",
-  "ascii_art": "${c1}                     ..,,,,..\n               .oocchhhhhhhhhhccoo.\n        .ochhlllllllc hhhhhh ollllllhhco.\n    ochlllllllllll hhhllllllhhh lllllllllllhco\n .cllllllllllllll hlllllo  +hllh llllllllllllllc.\nollllllllllhco''  hlllllo  +hllh  ``ochllllllllllo\nhllllllllc'       hllllllllllllh       `cllllllllh\nollllllh          +llllllllllll+          hllllllo\n `cllllh.           ohllllllho           .hllllc'\n    ochllc.            ++++            .cllhco\n       `+occooo+.                .+ooocco+'\n              `+oo++++      ++++oo+'"
+  "ascii_art": [
+    "${c1}                     ..,,,,..",
+    "               .oocchhhhhhhhhhccoo.",
+    "        .ochhlllllllc hhhhhh ollllllhhco.",
+    "    ochlllllllllll hhhllllllhhh lllllllllllhco",
+    " .cllllllllllllll hlllllo  +hllh llllllllllllllc.",
+    "ollllllllllhco''  hlllllo  +hllh  ``ochllllllllllo",
+    "hllllllllc'       hllllllllllllh       `cllllllllh",
+    "ollllllh          +llllllllllll+          hllllllo",
+    " `cllllh.           ohllllllho           .hllllc'",
+    "    ochllc.            ++++            .cllhco",
+    "       `+occooo+.                .+ooocco+'",
+    "              `+oo++++      ++++oo+'"
+  ]
 }

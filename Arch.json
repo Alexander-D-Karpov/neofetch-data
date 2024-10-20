@@ -1,5 +1,25 @@
 {
   "distro_name": "Arch",
   "colors": "6 6 7 1",
-  "ascii_art": "${c1}                   -`\n                  .o+`\n                 `ooo/\n                `+oooo:\n               `+oooooo:\n               -+oooooo+:\n             `/:-:++oooo+:\n            `/++++/+++++++:\n           `/++++++++++++++:\n          `/+++o${c2}oooooooo${c1}oooo/`\n${c2}         ${c1}./${c2}ooosssso++osssssso${c1}+`\n${c2}        .oossssso-````/ossssss+`\n       -osssssso.      :ssssssso.\n      :osssssss/        osssso+++.\n     /ossssssss/        +ssssooo/-\n   `/ossssso+/:-        -:/+osssso+-\n  `+sso+:-`                 `.-/+oso:\n `++:.                           `-/+/\n .`                                 `/"
+  "ascii_art": [
+    "${c1}                   -`",
+    "                  .o+`",
+    "                 `ooo/",
+    "                `+oooo:",
+    "               `+oooooo:",
+    "               -+oooooo+:",
+    "             `/:-:++oooo+:",
+    "            `/++++/+++++++:",
+    "           `/++++++++++++++:",
+    "          `/+++o${c2}oooooooo${c1}oooo/`",
+    "${c2}         ${c1}./${c2}ooosssso++osssssso${c1}+`",
+    "${c2}        .oossssso-````/ossssss+`",
+    "       -osssssso.      :ssssssso.",
+    "      :osssssss/        osssso+++.",
+    "     /ossssssss/        +ssssooo/-",
+    "   `/ossssso+/:-        -:/+osssso+-",
+    "  `+sso+:-`                 `.-/+oso:",
+    " `++:.                           `-/+/",
+    " .`                                 `/"
+  ]
 }

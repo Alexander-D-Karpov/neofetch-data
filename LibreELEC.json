@@ -1,5 +1,26 @@
 {
   "distro_name": "LibreELEC",
   "colors": "2 3 7 14 13",
-  "ascii_art": "${c1}          :+ooo/.      ${c2}./ooo+:\n${c1}        :+ooooooo/.  ${c2}./ooooooo+:\n${c1}      :+ooooooooooo:${c2}:ooooooooooo+:\n${c1}    :+ooooooooooo+-  ${c2}-+ooooooooooo+:\n${c1}  :+ooooooooooo+-  ${c3}--  ${c2}-+ooooooooooo+:\n${c1}.+ooooooooooo+-  ${c3}:+oo+:  ${c2}-+ooooooooooo+-\n${c1}-+ooooooooo+-  ${c3}:+oooooo+:  ${c2}-+oooooooooo-\n${c1}  :+ooooo+-  ${c3}:+oooooooooo+:  ${c2}-+oooooo:\n${c1}    :+o+-  ${c3}:+oooooooooooooo+:  ${c2}-+oo:\n${c4}     ./   ${c3}:oooooooooooooooooo:   ${c5}/.\n${c4}   ./oo+:  ${c3}-+oooooooooooooo+-  ${c5}:+oo/.\n${c4} ./oooooo+:  ${c3}-+oooooooooo+-  ${c5}:+oooooo/.\n${c4}-oooooooooo+:  ${c3}-+oooooo+-  ${c5}:+oooooooooo-\n${c4}.+ooooooooooo+:  ${c3}-+oo+-  ${c5}:+ooooooooooo+.\n${c4}  -+ooooooooooo+:  ${c3}..  ${c5}:+ooooooooooo+-\n${c4}    -+ooooooooooo+:  ${c5}:+ooooooooooo+-\n${c4}      -+oooooooooo+:${c5}:+oooooooooo+-\n${c4}        -+oooooo+:    ${c5}:+oooooo+-\n${c4}          -+oo+:        ${c5}:+oo+-\n${c4}            ..            ${c5}.."
+  "ascii_art": [
+    "${c1}          :+ooo/.      ${c2}./ooo+:",
+    "${c1}        :+ooooooo/.  ${c2}./ooooooo+:",
+    "${c1}      :+ooooooooooo:${c2}:ooooooooooo+:",
+    "${c1}    :+ooooooooooo+-  ${c2}-+ooooooooooo+:",
+    "${c1}  :+ooooooooooo+-  ${c3}--  ${c2}-+ooooooooooo+:",
+    "${c1}.+ooooooooooo+-  ${c3}:+oo+:  ${c2}-+ooooooooooo+-",
+    "${c1}-+ooooooooo+-  ${c3}:+oooooo+:  ${c2}-+oooooooooo-",
+    "${c1}  :+ooooo+-  ${c3}:+oooooooooo+:  ${c2}-+oooooo:",
+    "${c1}    :+o+-  ${c3}:+oooooooooooooo+:  ${c2}-+oo:",
+    "${c4}     ./   ${c3}:oooooooooooooooooo:   ${c5}/.",
+    "${c4}   ./oo+:  ${c3}-+oooooooooooooo+-  ${c5}:+oo/.",
+    "${c4} ./oooooo+:  ${c3}-+oooooooooo+-  ${c5}:+oooooo/.",
+    "${c4}-oooooooooo+:  ${c3}-+oooooo+-  ${c5}:+oooooooooo-",
+    "${c4}.+ooooooooooo+:  ${c3}-+oo+-  ${c5}:+ooooooooooo+.",
+    "${c4}  -+ooooooooooo+:  ${c3}..  ${c5}:+ooooooooooo+-",
+    "${c4}    -+ooooooooooo+:  ${c5}:+ooooooooooo+-",
+    "${c4}      -+oooooooooo+:${c5}:+oooooooooo+-",
+    "${c4}        -+oooooo+:    ${c5}:+oooooo+-",
+    "${c4}          -+oo+:        ${c5}:+oo+-",
+    "${c4}            ..            ${c5}.."
+  ]
 }

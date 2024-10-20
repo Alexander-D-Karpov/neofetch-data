@@ -1,5 +1,26 @@
 {
   "distro_name": "osmc",
   "colors": "4 7 1",
-  "ascii_art": "${c1}            -+shdmNNNNmdhs+-\n        .+hMNho/:..``..:/ohNMh+.\n      :hMdo.                .odMh:\n    -dMy-                      -yMd-\n   sMd-                          -dMs\n  hMy       +.            .+       yMh\n yMy        dMs.        .sMd        yMy\n:Mm         dMNMs`    `sMNMd        `mM:\nyM+         dM//mNs``sNm//Md         +My\nmM-         dM:  +NNNN+  :Md         -Mm\nmM-         dM: `oNN+    :Md         -Mm\nyM+         dM/+NNo`     :Md         +My\n:Mm`        dMMNs`       :Md        `mM:\n yMy        dMs`         -ms        yMy\n  hMy       +.                     yMh\n   sMd-                          -dMs\n    -dMy-                      -yMd-\n      :hMdo.                .odMh:\n        .+hMNho/:..``..:/ohNMh+.\n            -+shdmNNNNmdhs+-"
+  "ascii_art": [
+    "${c1}            -+shdmNNNNmdhs+-",
+    "        .+hMNho/:..``..:/ohNMh+.",
+    "      :hMdo.                .odMh:",
+    "    -dMy-                      -yMd-",
+    "   sMd-                          -dMs",
+    "  hMy       +.            .+       yMh",
+    " yMy        dMs.        .sMd        yMy",
+    ":Mm         dMNMs`    `sMNMd        `mM:",
+    "yM+         dM//mNs``sNm//Md         +My",
+    "mM-         dM:  +NNNN+  :Md         -Mm",
+    "mM-         dM: `oNN+    :Md         -Mm",
+    "yM+         dM/+NNo`     :Md         +My",
+    ":Mm`        dMMNs`       :Md        `mM:",
+    " yMy        dMs`         -ms        yMy",
+    "  hMy       +.                     yMh",
+    "   sMd-                          -dMs",
+    "    -dMy-                      -yMd-",
+    "      :hMdo.                .odMh:",
+    "        .+hMNho/:..``..:/ohNMh+.",
+    "            -+shdmNNNNmdhs+-"
+  ]
 }

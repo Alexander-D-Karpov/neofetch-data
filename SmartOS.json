@@ -1,5 +1,23 @@
 {
   "distro_name": "SmartOS",
   "colors": "6 7",
-  "ascii_art": "${c1}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyys             oyyyyyyyyyyyyyyyy\nyyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy\nyyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy\nyyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy\nyyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy\nyyyys  yyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyy                         syyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyy  syyyy\nyyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy\nyyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy\nyyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy\nyyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy\nyyyyyyyyyyyyyyyy              yyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  "ascii_art": [
+    "${c1}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "yyyys             oyyyyyyyyyyyyyyyy",
+    "yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy",
+    "yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy",
+    "yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy",
+    "yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy",
+    "yyyys  yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "yyyyy                         syyyy",
+    "yyyyyyyyyyyyyyyyyyyyyyyyyyyy  syyyy",
+    "yyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy",
+    "yyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy",
+    "yyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy",
+    "yyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy",
+    "yyyyyyyyyyyyyyyy              yyyyy",
+    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  ]
 }

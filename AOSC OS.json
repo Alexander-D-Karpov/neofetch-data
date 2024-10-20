@@ -1,5 +1,26 @@
 {
   "distro_name": "AOSC OS",
   "colors": "4 7 1",
-  "ascii_art": "${c2}             .:+syhhhhys+:.\n         .ohNMMMMMMMMMMMMMMNho.\n      `+mMMMMMMMMMMmdmNMMMMMMMMm+`\n     +NMMMMMMMMMMMM/   `./smMMMMMN+\n   .mMMMMMMMMMMMMMMo        -yMMMMMm.\n  :NMMMMMMMMMMMMMMMs          .hMMMMN:\n .NMMMMhmMMMMMMMMMMm+/-         oMMMMN.\n dMMMMs  ./ymMMMMMMMMMMNy.       sMMMMd\n-MMMMN`      oMMMMMMMMMMMN:      `NMMMM-\n/MMMMh       NMMMMMMMMMMMMm       hMMMM/\n/MMMMh       NMMMMMMMMMMMMm       hMMMM/\n-MMMMN`      :MMMMMMMMMMMMy.     `NMMMM-\n dMMMMs       .yNMMMMMMMMMMMNy/. sMMMMd\n .NMMMMo         -/+sMMMMMMMMMMMmMMMMN.\n  :NMMMMh.          .MMMMMMMMMMMMMMMN:\n   .mMMMMMy-         NMMMMMMMMMMMMMm.\n     +NMMMMMms/.`    mMMMMMMMMMMMN+\n      `+mMMMMMMMMNmddMMMMMMMMMMm+`\n         .ohNMMMMMMMMMMMMMMNho.\n             .:+syhhhhys+:."
+  "ascii_art": [
+    "${c2}             .:+syhhhhys+:.",
+    "         .ohNMMMMMMMMMMMMMMNho.",
+    "      `+mMMMMMMMMMMmdmNMMMMMMMMm+`",
+    "     +NMMMMMMMMMMMM/   `./smMMMMMN+",
+    "   .mMMMMMMMMMMMMMMo        -yMMMMMm.",
+    "  :NMMMMMMMMMMMMMMMs          .hMMMMN:",
+    " .NMMMMhmMMMMMMMMMMm+/-         oMMMMN.",
+    " dMMMMs  ./ymMMMMMMMMMMNy.       sMMMMd",
+    "-MMMMN`      oMMMMMMMMMMMN:      `NMMMM-",
+    "/MMMMh       NMMMMMMMMMMMMm       hMMMM/",
+    "/MMMMh       NMMMMMMMMMMMMm       hMMMM/",
+    "-MMMMN`      :MMMMMMMMMMMMy.     `NMMMM-",
+    " dMMMMs       .yNMMMMMMMMMMMNy/. sMMMMd",
+    " .NMMMMo         -/+sMMMMMMMMMMMmMMMMN.",
+    "  :NMMMMh.          .MMMMMMMMMMMMMMMN:",
+    "   .mMMMMMy-         NMMMMMMMMMMMMMm.",
+    "     +NMMMMMms/.`    mMMMMMMMMMMMN+",
+    "      `+mMMMMMMMMNmddMMMMMMMMMMm+`",
+    "         .ohNMMMMMMMMMMMMMMNho.",
+    "             .:+syhhhhys+:."
+  ]
 }

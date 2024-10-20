@@ -1,5 +1,27 @@
 {
   "distro_name": "Source_Mage",
   "colors": "4 7 1",
-  "ascii_art": "${c2}       :ymNMNho.\n.+sdmNMMMMMMMMMMy`\n.-::/yMMMMMMMMMMMm-\n      sMMMMMMMMMMMm/\n     /NMMMMMMMMMMMMMm:\n    .MMMMMMMMMMMMMMMMM:\n    `MMMMMMMMMMMMMMMMMN.\n     NMMMMMMMMMMMMMMMMMd\n     mMMMMMMMMMMMMMMMMMMo\n     hhMMMMMMMMMMMMMMMMMM.\n     .`/MMMMMMMMMMMMMMMMMs\n        :mMMMMMMMMMMMMMMMN`\n         `sMMMMMMMMMMMMMMM+\n           /NMMMMMMMMMMMMMN`\n             oMMMMMMMMMMMMM+\n          ./sd.-hMMMMMMMMmmN`\n      ./+oyyyh- `MMMMMMMMMmNh\n                 sMMMMMMMMMmmo\n                 `NMMMMMMMMMd:\n                  -dMMMMMMMMMo\n                    -shmNMMms."
+  "ascii_art": [
+    "${c2}       :ymNMNho.",
+    ".+sdmNMMMMMMMMMMy`",
+    ".-::/yMMMMMMMMMMMm-",
+    "      sMMMMMMMMMMMm/",
+    "     /NMMMMMMMMMMMMMm:",
+    "    .MMMMMMMMMMMMMMMMM:",
+    "    `MMMMMMMMMMMMMMMMMN.",
+    "     NMMMMMMMMMMMMMMMMMd",
+    "     mMMMMMMMMMMMMMMMMMMo",
+    "     hhMMMMMMMMMMMMMMMMMM.",
+    "     .`/MMMMMMMMMMMMMMMMMs",
+    "        :mMMMMMMMMMMMMMMMN`",
+    "         `sMMMMMMMMMMMMMMM+",
+    "           /NMMMMMMMMMMMMMN`",
+    "             oMMMMMMMMMMMMM+",
+    "          ./sd.-hMMMMMMMMmmN`",
+    "      ./+oyyyh- `MMMMMMMMMmNh",
+    "                 sMMMMMMMMMmmo",
+    "                 `NMMMMMMMMMd:",
+    "                  -dMMMMMMMMMo",
+    "                    -shmNMMms."
+  ]
 }

@@ -1,5 +1,23 @@
 {
   "distro_name": "NetBSD",
   "colors": "5 7",
-  "ascii_art": "${c1}                     `-/oshdmNMNdhyo+:-`\n${c2}y${c1}/s+:-``    `.-:+oydNMMMMNhs/-``\n${c2}-m+${c1}NMMMMMMMMMMMMMMMMMMMNdhmNMMMmdhs+/-`\n ${c2}-m+${c1}NMMMMMMMMMMMMMMMMMMMMmy+:`\n  ${c2}-N/${c1}dMMMMMMMMMMMMMMMds:`\n   ${c2}-N/${c1}hMMMMMMMMMmho:`\n    ${c2}-N/${c1}-:/++/:.`\n${c2}     :M+\n      :Mo\n       :Ms\n        :Ms\n         :Ms\n          :Ms\n           :Ms\n            :Ms\n             :Ms\n              :Ms"
+  "ascii_art": [
+    "${c1}                     `-/oshdmNMNdhyo+:-`",
+    "${c2}y${c1}/s+:-``    `.-:+oydNMMMMNhs/-``",
+    "${c2}-m+${c1}NMMMMMMMMMMMMMMMMMMMNdhmNMMMmdhs+/-`",
+    " ${c2}-m+${c1}NMMMMMMMMMMMMMMMMMMMMmy+:`",
+    "  ${c2}-N/${c1}dMMMMMMMMMMMMMMMds:`",
+    "   ${c2}-N/${c1}hMMMMMMMMMmho:`",
+    "    ${c2}-N/${c1}-:/++/:.`",
+    "${c2}     :M+",
+    "      :Mo",
+    "       :Ms",
+    "        :Ms",
+    "         :Ms",
+    "          :Ms",
+    "           :Ms",
+    "            :Ms",
+    "             :Ms",
+    "              :Ms"
+  ]
 }

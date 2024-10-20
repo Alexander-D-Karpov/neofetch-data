@@ -1,5 +1,26 @@
 {
   "distro_name": "Linux_Lite",
   "colors": "3 7",
-  "ascii_art": "${c1}          ,xXc\n      .l0MMMMMO\n   .kNMMMMMWMMMN,\n   KMMMMMMKMMMMMMo\n  'MMMMMMNKMMMMMM:\n  kMMMMMMOMMMMMMO\n .MMMMMMX0MMMMMW.\n oMMMMMMxWMMMMM:\n WMMMMMNkMMMMMO\n:MMMMMMOXMMMMW\n.0MMMMMxMMMMM;\n:;cKMMWxMMMMO\n'MMWMMXOMMMMl\n kMMMMKOMMMMMX:\n .WMMMMKOWMMM0c\n  lMMMMMWO0MNd:'\n   oollXMKXoxl;.\n     ':. .: .'\n              ..\n                ."
+  "ascii_art": [
+    "${c1}          ,xXc",
+    "      .l0MMMMMO",
+    "   .kNMMMMMWMMMN,",
+    "   KMMMMMMKMMMMMMo",
+    "  'MMMMMMNKMMMMMM:",
+    "  kMMMMMMOMMMMMMO",
+    " .MMMMMMX0MMMMMW.",
+    " oMMMMMMxWMMMMM:",
+    " WMMMMMNkMMMMMO",
+    ":MMMMMMOXMMMMW",
+    ".0MMMMMxMMMMM;",
+    ":;cKMMWxMMMMO",
+    "'MMWMMXOMMMMl",
+    " kMMMMKOMMMMMX:",
+    " .WMMMMKOWMMM0c",
+    "  lMMMMMWO0MNd:'",
+    "   oollXMKXoxl;.",
+    "     ':. .: .'",
+    "              ..",
+    "                ."
+  ]
 }

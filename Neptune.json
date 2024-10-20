@@ -1,5 +1,23 @@
 {
   "distro_name": "Neptune",
   "colors": "7",
-  "ascii_art": "${c1}            ./+sydddddddys/-.\n        .+ymNNdyooo/:+oooymNNmy/`\n     `/hNNh/.`             `-+dNNy:`\n    /mMd/.          .++.:oy/   .+mMd-\n  `sMN/             oMMmdy+.     `oNNo\n `hMd.           `/ymy/.           :NMo\n oMN-          `/dMd:               /MM-\n`mMy          -dMN+`                 mMs\n.MMo         -NMM/                   yMs\n dMh         mMMMo:`                `NMo\n /MM/        /ymMMMm-               sMN.\n  +Mm:         .hMMd`              oMN/\n   +mNs.      `yNd/`             -dMm-\n    .yMNs:    `/.`            `/yNNo`\n      .odNNy+-`           .:ohNNd/.\n         -+ymNNmdyyyyyyydmNNmy+.\n             `-//sssssss//."
+  "ascii_art": [
+    "${c1}            ./+sydddddddys/-.",
+    "        .+ymNNdyooo/:+oooymNNmy/`",
+    "     `/hNNh/.`             `-+dNNy:`",
+    "    /mMd/.          .++.:oy/   .+mMd-",
+    "  `sMN/             oMMmdy+.     `oNNo",
+    " `hMd.           `/ymy/.           :NMo",
+    " oMN-          `/dMd:               /MM-",
+    "`mMy          -dMN+`                 mMs",
+    ".MMo         -NMM/                   yMs",
+    " dMh         mMMMo:`                `NMo",
+    " /MM/        /ymMMMm-               sMN.",
+    "  +Mm:         .hMMd`              oMN/",
+    "   +mNs.      `yNd/`             -dMm-",
+    "    .yMNs:    `/.`            `/yNNo`",
+    "      .odNNy+-`           .:ohNNd/.",
+    "         -+ymNNmdyyyyyyydmNNmy+.",
+    "             `-//sssssss//."
+  ]
 }

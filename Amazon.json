@@ -1,5 +1,25 @@
 {
   "distro_name": "Amazon",
   "colors": "3 7",
-  "ascii_art": "${c1}             `-/oydNNdyo:.`\n      `.:+shmMMMMMMMMMMMMMMmhs+:.`\n    -+hNNMMMMMMMMMMMMMMMMMMMMMMNNho-\n.``      -/+shmNNMMMMMMNNmhs+/-      ``.\ndNmhs+:.       `.:/oo/:.`       .:+shmNd\ndMMMMMMMNdhs+:..        ..:+shdNMMMMMMMd\ndMMMMMMMMMMMMMMNds    odNMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\ndMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd\n.:+ydNMMMMMMMMMMMh    yMMMMMMMMMMMNdy+:.\n     `.:+shNMMMMMh    yMMMMMNhs+:``\n            `-+shy    shs+:`"
+  "ascii_art": [
+    "${c1}             `-/oydNNdyo:.`",
+    "      `.:+shmMMMMMMMMMMMMMMmhs+:.`",
+    "    -+hNNMMMMMMMMMMMMMMMMMMMMMMNNho-",
+    ".``      -/+shmNNMMMMMMNNmhs+/-      ``.",
+    "dNmhs+:.       `.:/oo/:.`       .:+shmNd",
+    "dMMMMMMMNdhs+:..        ..:+shdNMMMMMMMd",
+    "dMMMMMMMMMMMMMMNds    odNMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    "dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd",
+    ".:+ydNMMMMMMMMMMMh    yMMMMMMMMMMMNdy+:.",
+    "     `.:+shNMMMMMh    yMMMMMNhs+:``",
+    "            `-+shy    shs+:`"
+  ]
 }

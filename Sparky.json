@@ -1,5 +1,27 @@
 {
   "distro_name": "Sparky",
   "colors": "1 7",
-  "ascii_art": "${c1}\n           .            `-:-`\n          .o`       .-///-`\n         `oo`    .:/++:.\n         os+`  -/+++:` ``.........```\n        /ys+`./+++/-.-::::::----......``\n       `syyo`++o+--::::-::/+++/-``\n       -yyy+.+o+`:/:-:sdmmmmmmmmdy+-`\n::-`   :yyy/-oo.-+/`ymho++++++oyhdmdy/`\n`/yy+-`.syyo`+o..o--h..osyhhddhs+//osyy/`\n  -ydhs+-oyy/.+o.-: ` `  :/::+ydhy+```-os-\n   .sdddy::syo--/:.     `.:dy+-ohhho    ./:\n     :yddds/:+oo+//:-`- /+ +hy+.shhy:     ``\n      `:ydmmdysooooooo-.ss`/yss--oyyo\n        `./ossyyyyo+:-/oo:.osso- .oys\n       ``..-------::////.-oooo/   :so\n    `...----::::::::--.`/oooo:    .o:\n           ```````     ++o+:`     `:`\n                     ./+/-`        `\n                   `-:-.\n                   ``"
+  "ascii_art": [
+    "${c1}",
+    "           .            `-:-`",
+    "          .o`       .-///-`",
+    "         `oo`    .:/++:.",
+    "         os+`  -/+++:` ``.........```",
+    "        /ys+`./+++/-.-::::::----......``",
+    "       `syyo`++o+--::::-::/+++/-``",
+    "       -yyy+.+o+`:/:-:sdmmmmmmmmdy+-`",
+    "::-`   :yyy/-oo.-+/`ymho++++++oyhdmdy/`",
+    "`/yy+-`.syyo`+o..o--h..osyhhddhs+//osyy/`",
+    "  -ydhs+-oyy/.+o.-: ` `  :/::+ydhy+```-os-",
+    "   .sdddy::syo--/:.     `.:dy+-ohhho    ./:",
+    "     :yddds/:+oo+//:-`- /+ +hy+.shhy:     ``",
+    "      `:ydmmdysooooooo-.ss`/yss--oyyo",
+    "        `./ossyyyyo+:-/oo:.osso- .oys",
+    "       ``..-------::////.-oooo/   :so",
+    "    `...----::::::::--.`/oooo:    .o:",
+    "           ```````     ++o+:`     `:`",
+    "                     ./+/-`        `",
+    "                   `-:-.",
+    "                   ``"
+  ]
 }

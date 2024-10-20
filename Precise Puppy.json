@@ -1,5 +1,24 @@
 {
   "distro_name": "Precise Puppy",
   "colors": "4 7",
-  "ascii_art": "${c1}           `-/osyyyysosyhhhhhyys+-\n  -ohmNNmh+/hMMMMMMMMNNNNd+dMMMMNM+\n yMMMMNNmmddo/NMMMNNNNNNNNNo+NNNNNy\n.NNNNNNmmmddds:MMNNNNNNNNNNNh:mNNN/\n-NNNdyyyhdmmmd`dNNNNNmmmmNNmdd/os/\n.Nm+shddyooo+/smNNNNmmmmNh.   :mmd.\n NNNNy:`   ./hmmmmmmmNNNN:     hNMh\n NMN-    -++- +NNNNNNNNNNm+..-sMMMM-\n.MMo    oNNNNo hNNNNNNNNmhdNNNMMMMM+\n.MMs    /NNNN/ dNmhs+:-`  yMMMMMMMM+\n mMM+     .. `sNN+.      hMMMMhhMMM-\n +MMMmo:...:sNMMMMMms:` hMMMMm.hMMy\n  yMMMMMMMMMMMNdMMMMMM::/+o+//dMMd`\n   sMMMMMMMMMMN+:oyyo:sMMMNNMMMNy`\n    :mMMMMMMMMMMMmddNMMMMMMMMmh/\n      /dMMMMMMMMMMMMMMMMMMNdy/`\n        .+hNMMMMMMMMMNmdhs/.\n            .:/+ooo+/:-."
+  "ascii_art": [
+    "${c1}           `-/osyyyysosyhhhhhyys+-",
+    "  -ohmNNmh+/hMMMMMMMMNNNNd+dMMMMNM+",
+    " yMMMMNNmmddo/NMMMNNNNNNNNNo+NNNNNy",
+    ".NNNNNNmmmddds:MMNNNNNNNNNNNh:mNNN/",
+    "-NNNdyyyhdmmmd`dNNNNNmmmmNNmdd/os/",
+    ".Nm+shddyooo+/smNNNNmmmmNh.   :mmd.",
+    " NNNNy:`   ./hmmmmmmmNNNN:     hNMh",
+    " NMN-    -++- +NNNNNNNNNNm+..-sMMMM-",
+    ".MMo    oNNNNo hNNNNNNNNmhdNNNMMMMM+",
+    ".MMs    /NNNN/ dNmhs+:-`  yMMMMMMMM+",
+    " mMM+     .. `sNN+.      hMMMMhhMMM-",
+    " +MMMmo:...:sNMMMMMms:` hMMMMm.hMMy",
+    "  yMMMMMMMMMMMNdMMMMMM::/+o+//dMMd`",
+    "   sMMMMMMMMMMN+:oyyo:sMMMNNMMMNy`",
+    "    :mMMMMMMMMMMMmddNMMMMMMMMmh/",
+    "      /dMMMMMMMMMMMMMMMMMMNdy/`",
+    "        .+hNMMMMMMMMMNmdhs/.",
+    "            .:/+ooo+/:-."
+  ]
 }

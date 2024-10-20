@@ -1,5 +1,24 @@
 {
   "distro_name": "Carbs",
   "colors": "4 5 4 4 4 4",
-  "ascii_art": "${c2}             ..........\n          ..,;:ccccccc:;'..\n       ..,clllc:;;;;;:cllc,.\n      .,cllc,...     ..';;'.\n     .;lol;..           ..\n    .,lol;.\n    .coo:.\n   .'lol,.\n   .,lol,.\n   .,lol,.\n    'col;.\n    .:ooc'.\n    .'col:.\n     .'cllc'..          .''.\n      ..:lolc,'.......',cll,.\n        ..;cllllccccclllc;'.\n          ...',;;;;;;,,...\n                ....."
+  "ascii_art": [
+    "${c2}             ..........",
+    "          ..,;:ccccccc:;'..",
+    "       ..,clllc:;;;;;:cllc,.",
+    "      .,cllc,...     ..';;'.",
+    "     .;lol;..           ..",
+    "    .,lol;.",
+    "    .coo:.",
+    "   .'lol,.",
+    "   .,lol,.",
+    "   .,lol,.",
+    "    'col;.",
+    "    .:ooc'.",
+    "    .'col:.",
+    "     .'cllc'..          .''.",
+    "      ..:lolc,'.......',cll,.",
+    "        ..;cllllccccclllc;'.",
+    "          ...',;;;;;;,,...",
+    "                ....."
+  ]
 }
